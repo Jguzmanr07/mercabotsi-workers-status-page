@@ -3,9 +3,17 @@
 name: domain_checker
 
 # Controls when the workflow will run
+#on:
+#  schedule:
+#      - cron: "0 * * * *" #run every hour
+
 on:
+  push:
+    branches:
+      - main
+  repository_dispatch:
   schedule:
-      - cron: "0 * * * *" #run every hour
+    - cron: '0 0 1 * *'
 
 jobs:
   build:
