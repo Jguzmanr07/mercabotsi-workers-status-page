@@ -29,7 +29,9 @@ jobs:
         uses: actions/setup-python@v4
         with:
          python-version: 3.8 #install the python needed
-      - name: execute py script # run the run.py to get the latest data
+      - name: install pip
+        run: pip install requests
+      - name: execute py script 
         run: python monitor.py
         env:
           key: ${{ secrets.key }}
