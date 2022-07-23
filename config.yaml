@@ -24,16 +24,26 @@ monitors:
     followRedirect: false # should fetch follow redirects, default=false
     linkable: false # allows the title to be a link, default=true
 
-  - id: www-cloudflare-com
-    name: www.cloudflare.com
-    description: 'Built for anything connected to the Internet.'
-    url: 'https://www.cloudflare.com'
+  - id: 12com-ru
+    name: 12com-ru
+    url: 'https://12com.ru/'
     method: GET
     expectStatus: 200
-    linkable: true # allows the title to be a link, default=true
 
-  - id: blog-cloudflare-com
-    name: The Cloudflare Blog
-    url: 'https://blog.cloudflare.com/'
+  - id: 2memo-ru
+    name: 2memo-ru
+    url: 'https://42memo.ru/'
+    method: GET
+    expectStatus: 200
+
+  - id: 4erkessk-ru
+    name: 4erkessk-ru
+    url: 'https://4erkessk.ru/'
+    method: GET
+    expectStatus: 200
+
+  - id: 4memo-net
+    name: 4memo-net
+    url: 'https://4memo.net/'
     method: GET
     expectStatus: 200
