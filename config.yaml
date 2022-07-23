@@ -1,6 +1,6 @@
 settings:
-  title: 'Misinformationg Ginder'
-  url: 'https://status-page.eidam.dev' # used for Slack messages
+  title: 'Misinformation Ginder'
+  url: 'https://misinformationgrinder.tk/' # used for Slack messages
   logo: logo-192x192.png # image in ./public/ folder
   daysInHistogram: 10 # number of days you want to display in histogram
   collectResponseTimes: false # collects avg response times from CRON locations
