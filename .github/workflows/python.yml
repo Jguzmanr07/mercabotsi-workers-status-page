@@ -29,6 +29,7 @@ jobs:
       - name: execute py script # run the run.py to get the latest data
         run: |
           pip install requests
+	  rm -f sites.txt
           python monitor.py
         env:
           key: ${{ secrets.key }}
