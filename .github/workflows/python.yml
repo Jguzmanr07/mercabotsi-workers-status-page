@@ -1,16 +1,9 @@
-name: domain_checker
+    name: domain_checker
    
-  on:
-  push:
-    branches:
-      - main
-  repository_dispatch:
-  schedule:
-    - cron: '0 0 1 * *' 
 
-   # on:
-   #   schedule:
-   #     - cron: "0 * * * *" #run every hour
+    on:
+      schedule:
+        - cron: "0 * * * *" #run every hour
     
     jobs:
       build:
