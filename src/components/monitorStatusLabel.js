@@ -15,9 +15,6 @@ export default function MonitorStatusLabel({ kvMonitor }) {
     if (kvMonitor.lastCheck.operational) {
       color = 'green'
       text = config.settings.monitorLabelOperational
-    } else {
-      color = 'yellow'
-      text = config.settings.monitorLabelNotOperational
     }
   }
 
