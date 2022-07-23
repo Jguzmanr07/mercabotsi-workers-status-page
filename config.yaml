@@ -1,12 +1,12 @@
 settings:
-  title: 'Status Page'
+  title: 'Misinformationg Ginder'
   url: 'https://status-page.eidam.dev' # used for Slack messages
   logo: logo-192x192.png # image in ./public/ folder
-  daysInHistogram: 90 # number of days you want to display in histogram
-  collectResponseTimes: true # collects avg response times from CRON locations
+  daysInHistogram: 10 # number of days you want to display in histogram
+  collectResponseTimes: false # collects avg response times from CRON locations
 
-  allmonitorsOperational: 'All Systems Operational'
-  notAllmonitorsOperational: 'Not All Systems Operational'
+  allmonitorsOperational: 'Not All Systems Operational'
+  notAllmonitorsOperational: 'All Systems Operational'
   monitorLabelOperational: 'Operational'
   monitorLabelNotOperational: 'Not Operational'
   monitorLabelNoData: 'No data'
@@ -15,15 +15,6 @@ settings:
   dayInHistogramNotOperational: ' incident(s)' # xx incident(s) recorded
 
 monitors:
-  - id: workers-cloudflare-com # unique identifier
-    name: workers.cloudflare.com
-    description: 'You write code. They handle the rest.' # default=empty
-    url: 'https://workers.cloudflare.com/' # URL to fetch
-    method: GET # default=GET
-    expectStatus: 200 # operational status, default=200
-    followRedirect: false # should fetch follow redirects, default=false
-    linkable: false # allows the title to be a link, default=true
-    
   - id: 12com.ru
     name: 12com.ru
     url: https://12com.ru/
