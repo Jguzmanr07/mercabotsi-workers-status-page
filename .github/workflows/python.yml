@@ -1,4 +1,4 @@
-  name: domain_checker
+name: domain_checker
    
   on:
   push:
