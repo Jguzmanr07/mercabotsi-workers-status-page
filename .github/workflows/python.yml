@@ -1,8 +1,8 @@
     name: domain_checker
     
-    on:
-      schedule:
-        - cron: "0 * * * *" #run every hour
+   # on:
+   #   schedule:
+   #     - cron: "0 * * * *" #run every hour
     
     jobs:
       build:
