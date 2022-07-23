@@ -23,27 +23,8050 @@ monitors:
     expectStatus: 200 # operational status, default=200
     followRedirect: false # should fetch follow redirects, default=false
     linkable: false # allows the title to be a link, default=true
-
-  - id: 12com-ru
-    name: 12com-ru
-    url: 'https://12com.ru/'
+    
+  - id: 12com.ru
+    name: 12com.ru
+    url: https://12com.ru/
     method: GET
     expectStatus: 200
 
-  - id: 2memo-ru
-    name: 2memo-ru
-    url: 'https://42memo.ru/'
+  - id: 2memo.ru
+    name: 2memo.ru
+    url: https://2memo.ru/
     method: GET
     expectStatus: 200
 
-  - id: 4erkessk-ru
-    name: 4erkessk-ru
-    url: 'https://4erkessk.ru/'
+  - id: 4erkessk.ru
+    name: 4erkessk.ru
+    url: https://4erkessk.ru/
     method: GET
     expectStatus: 200
 
-  - id: 4memo-net
-    name: 4memo-net
-    url: 'https://4memo.net/'
+  - id: 4memo.net
+    name: 4memo.net
+    url: https://4memo.net/
     method: GET
     expectStatus: 200
+
+  - id: 5-gorsk.ru
+    name: 5-gorsk.ru
+    url: https://5-gorsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: 5lavr.org
+    name: 5lavr.org
+    url: https://5lavr.org/
+    method: GET
+    expectStatus: 200
+
+  - id: abakan-pyatnitsa.ru
+    name: abakan-pyatnitsa.ru
+    url: https://abakan-pyatnitsa.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: aban-pyatnitsa.ru
+    name: aban-pyatnitsa.ru
+    url: https://aban-pyatnitsa.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: abaz-vestnik.ru
+    name: abaz-vestnik.ru
+    url: https://abaz-vestnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: abinskaya-linia.ru
+    name: abinskaya-linia.ru
+    url: https://abinskaya-linia.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: achkhoi-martan.ru
+    name: achkhoi-martan.ru
+    url: https://achkhoi-martan.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: afip-den.ru
+    name: afip-den.ru
+    url: https://afip-den.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: aginskoe-today.ru
+    name: aginskoe-today.ru
+    url: https://aginskoe-today.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ahtirka.ru
+    name: ahtirka.ru
+    url: https://ahtirka.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ahtubinsk-projektor.ru
+    name: ahtubinsk-projektor.ru
+    url: https://ahtubinsk-projektor.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ahtyrka-info.ru
+    name: ahtyrka-info.ru
+    url: https://ahtyrka-info.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: aihal-vesti.ru
+    name: aihal-vesti.ru
+    url: https://aihal-vesti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ak-dovurak.press
+    name: ak-dovurak.press
+    url: https://ak-dovurak.press/
+    method: GET
+    expectStatus: 200
+
+  - id: aksaysovet.ru
+    name: aksaysovet.ru
+    url: https://aksaysovet.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: akua-suhum.info
+    name: akua-suhum.info
+    url: https://akua-suhum.info/
+    method: GET
+    expectStatus: 200
+
+  - id: alagirskie-dni.ru
+    name: alagirskie-dni.ru
+    url: https://alagirskie-dni.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: aldanvecher.ru
+    name: aldanvecher.ru
+    url: https://aldanvecher.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: aleksah.ru
+    name: aleksah.ru
+    url: https://aleksah.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: aleksandriyskaya.ru
+    name: aleksandriyskaya.ru
+    url: https://aleksandriyskaya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: aleksandrov-sloboda.ru
+    name: aleksandrov-sloboda.ru
+    url: https://aleksandrov-sloboda.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: aleut-star.ru
+    name: aleut-star.ru
+    url: https://aleut-star.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: alexsandrov-sloboda.ru
+    name: alexsandrov-sloboda.ru
+    url: https://alexsandrov-sloboda.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: all-yalta.ru
+    name: all-yalta.ru
+    url: https://all-yalta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: alleroi.ru
+    name: alleroi.ru
+    url: https://alleroi.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: alleroy-utro.ru
+    name: alleroy-utro.ru
+    url: https://alleroy-utro.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: altai-week.ru
+    name: altai-week.ru
+    url: https://altai-week.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: altaiskaya-iskra.ru
+    name: altaiskaya-iskra.ru
+    url: https://altaiskaya-iskra.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: alter-info.ru
+    name: alter-info.ru
+    url: https://alter-info.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: amak.ru
+    name: amak.ru
+    url: https://amak.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: amur-liman.ru
+    name: amur-liman.ru
+    url: https://amur-liman.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: amur-novosti.ru
+    name: amur-novosti.ru
+    url: https://amur-novosti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: amurzori.ru
+    name: amurzori.ru
+    url: https://amurzori.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: amzvezda.ru
+    name: amzvezda.ru
+    url: https://amzvezda.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: anuzori.ru
+    name: anuzori.ru
+    url: https://anuzori.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: anyui.ru
+    name: anyui.ru
+    url: https://anyui.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: anzhero-sudzhenski.ru
+    name: anzhero-sudzhenski.ru
+    url: https://anzhero-sudzhenski.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: apatites.ru
+    name: apatites.ru
+    url: https://apatites.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: apchas.ru
+    name: apchas.ru
+    url: https://apchas.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ar-asb.ru
+    name: ar-asb.ru
+    url: https://ar-asb.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: aramil-vesti.ru
+    name: aramil-vesti.ru
+    url: https://aramil-vesti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ardonvestnik.ru
+    name: ardonvestnik.ru
+    url: https://ardonvestnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: argayash-m.ru
+    name: argayash-m.ru
+    url: https://argayash-m.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: argumenty-kuragino.ru
+    name: argumenty-kuragino.ru
+    url: https://argumenty-kuragino.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: argungazeta.ru
+    name: argungazeta.ru
+    url: https://argungazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: armavir-zerkalo.ru
+    name: armavir-zerkalo.ru
+    url: https://armavir-zerkalo.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: armvestnik.ru
+    name: armvestnik.ru
+    url: https://armvestnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: artem-plus.ru
+    name: artem-plus.ru
+    url: https://artem-plus.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: arzamas-gazeta.ru
+    name: arzamas-gazeta.ru
+    url: https://arzamas-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: arzvest.ru
+    name: arzvest.ru
+    url: https://arzvest.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: askiz-press.ru
+    name: askiz-press.ru
+    url: https://askiz-press.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: astapovskie.ru
+    name: astapovskie.ru
+    url: https://astapovskie.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: atamanovskaya-pravda.ru
+    name: atamanovskaya-pravda.ru
+    url: https://atamanovskaya-pravda.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: avangard-cv.ru
+    name: avangard-cv.ru
+    url: https://avangard-cv.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: avangard-d.ru
+    name: avangard-d.ru
+    url: https://avangard-d.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: avangard-os.ru
+    name: avangard-os.ru
+    url: https://avangard-os.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: avangard29.ru
+    name: avangard29.ru
+    url: https://avangard29.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: avangard57.ru
+    name: avangard57.ru
+    url: https://avangard57.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: avturvestnik.ru
+    name: avturvestnik.ru
+    url: https://avturvestnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: azovski-bereg.ru
+    name: azovski-bereg.ru
+    url: https://azovski-bereg.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: b-gazeta.ru
+    name: b-gazeta.ru
+    url: https://b-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: b-pravda.ru
+    name: b-pravda.ru
+    url: https://b-pravda.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: b-volga.ru
+    name: b-volga.ru
+    url: https://b-volga.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: babaevogazeta.ru
+    name: babaevogazeta.ru
+    url: https://babaevogazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: bachi-yurt.ru
+    name: bachi-yurt.ru
+    url: https://bachi-yurt.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: bahchisarai-gazeta.ru
+    name: bahchisarai-gazeta.ru
+    url: https://bahchisarai-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: bahchisaray-gazeta.ru
+    name: bahchisaray-gazeta.ru
+    url: https://bahchisaray-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: baikal-ogni.ru
+    name: baikal-ogni.ru
+    url: https://baikal-ogni.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: baikalskie-ogni.ru
+    name: baikalskie-ogni.ru
+    url: https://baikalskie-ogni.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: bakchar.ru
+    name: bakchar.ru
+    url: https://bakchar.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: baksanvesti.ru
+    name: baksanvesti.ru
+    url: https://baksanvesti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: balabanovo-gazeta.ru
+    name: balabanovo-gazeta.ru
+    url: https://balabanovo-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: balahna-vestnik.ru
+    name: balahna-vestnik.ru
+    url: https://balahna-vestnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: balaklavski-rybak.ru
+    name: balaklavski-rybak.ru
+    url: https://balaklavski-rybak.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: balashiha-news.ru
+    name: balashiha-news.ru
+    url: https://balashiha-news.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: baltvedomosti.ru
+    name: baltvedomosti.ru
+    url: https://baltvedomosti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: barabinskie-zemlyaki.ru
+    name: barabinskie-zemlyaki.ru
+    url: https://barabinskie-zemlyaki.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: bashiskra.ru
+    name: bashiskra.ru
+    url: https://bashiskra.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: bc-sco.org
+    name: bc-sco.org
+    url: https://bc-sco.org/
+    method: GET
+    expectStatus: 200
+
+  - id: belkalitva.ru
+    name: belkalitva.ru
+    url: https://belkalitva.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: belokruga.ru
+    name: belokruga.ru
+    url: https://belokruga.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: belomorskie-vesti.ru
+    name: belomorskie-vesti.ru
+    url: https://belomorskie-vesti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: belovskaya-niva.ru
+    name: belovskaya-niva.ru
+    url: https://belovskaya-niva.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: beloyarski-uspeh.ru
+    name: beloyarski-uspeh.ru
+    url: https://beloyarski-uspeh.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: belozero.ru
+    name: belozero.ru
+    url: https://belozero.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: belpobeda.ru
+    name: belpobeda.ru
+    url: https://belpobeda.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: belsmena.ru
+    name: belsmena.ru
+    url: https://belsmena.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: belvestnik.ru
+    name: belvestnik.ru
+    url: https://belvestnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: belzarya.ru
+    name: belzarya.ru
+    url: https://belzarya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: belznamya.ru
+    name: belznamya.ru
+    url: https://belznamya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: belzori.ru
+    name: belzori.ru
+    url: https://belzori.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: berbgo.ru
+    name: berbgo.ru
+    url: https://berbgo.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: bereg-holmsk.ru
+    name: bereg-holmsk.ru
+    url: https://bereg-holmsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: berezovski-kurs.ru
+    name: berezovski-kurs.ru
+    url: https://berezovski-kurs.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: beya-news.ru
+    name: beya-news.ru
+    url: https://beya-news.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: bezhetsk-time.ru
+    name: bezhetsk-time.ru
+    url: https://bezhetsk-time.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: big-karachai.ru
+    name: big-karachai.ru
+    url: https://big-karachai.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: bigkamen.ru
+    name: bigkamen.ru
+    url: https://bigkamen.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: bikin-volna.ru
+    name: bikin-volna.ru
+    url: https://bikin-volna.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: biychanka.press
+    name: biychanka.press
+    url: https://biychanka.press/
+    method: GET
+    expectStatus: 200
+
+  - id: biznovoch.ru
+    name: biznovoch.ru
+    url: https://biznovoch.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: blagodarnensky.ru
+    name: blagodarnensky.ru
+    url: https://blagodarnensky.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: bobur.ru
+    name: bobur.ru
+    url: https://bobur.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: bogorodsky-variant.ru
+    name: bogorodsky-variant.ru
+    url: https://bogorodsky-variant.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: boguchany-vestnik.ru
+    name: boguchany-vestnik.ru
+    url: https://boguchany-vestnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: boguchar-vesti.ru
+    name: boguchar-vesti.ru
+    url: https://boguchar-vesti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: bogved.ru
+    name: bogved.ru
+    url: https://bogved.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: bold-vest.ru
+    name: bold-vest.ru
+    url: https://bold-vest.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: bolhov-kur.ru
+    name: bolhov-kur.ru
+    url: https://bolhov-kur.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: bolmurta.ru
+    name: bolmurta.ru
+    url: https://bolmurta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: bologoe-info.ru
+    name: bologoe-info.ru
+    url: https://bologoe-info.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: boltsaryn.ru
+    name: boltsaryn.ru
+    url: https://boltsaryn.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: bor-gorod.ru
+    name: bor-gorod.ru
+    url: https://bor-gorod.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: borisoglebskie-vesti.ru
+    name: borisoglebskie-vesti.ru
+    url: https://borisoglebskie-vesti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: borodino-panorama.ru
+    name: borodino-panorama.ru
+    url: https://borodino-panorama.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: borovichanin.ru
+    name: borovichanin.ru
+    url: https://borovichanin.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: br-perekrestok.ru
+    name: br-perekrestok.ru
+    url: https://br-perekrestok.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: brasovkray.ru
+    name: brasovkray.ru
+    url: https://brasovkray.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: bryuhovetskaya.ru
+    name: bryuhovetskaya.ru
+    url: https://bryuhovetskaya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: budennovsk-today.ru
+    name: budennovsk-today.ru
+    url: https://budennovsk-today.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: budniyashkulya.ru
+    name: budniyashkulya.ru
+    url: https://budniyashkulya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: buinaksk-segodnya.ru
+    name: buinaksk-segodnya.ru
+    url: https://buinaksk-segodnya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: bur-gaz.ru
+    name: bur-gaz.ru
+    url: https://bur-gaz.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: bvk-urzhum.ru
+    name: bvk-urzhum.ru
+    url: https://bvk-urzhum.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: cargologistic.ru
+    name: cargologistic.ru
+    url: https://cargologistic.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: caspium.ru
+    name: caspium.ru
+    url: https://caspium.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: chaikovski-vestnik.ru
+    name: chaikovski-vestnik.ru
+    url: https://chaikovski-vestnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: chainskoe-obozrenie.ru
+    name: chainskoe-obozrenie.ru
+    url: https://chainskoe-obozrenie.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: chapliginski.ru
+    name: chapliginski.ru
+    url: https://chapliginski.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: chastnoe-mnenie.ru
+    name: chastnoe-mnenie.ru
+    url: https://chastnoe-mnenie.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: chegdomin.ru
+    name: chegdomin.ru
+    url: https://chegdomin.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: cherekvesti.ru
+    name: cherekvesti.ru
+    url: https://cherekvesti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: cheremhovo-vedomosti.ru
+    name: cheremhovo-vedomosti.ru
+    url: https://cheremhovo-vedomosti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: cheremhovskie-vedomosti.ru
+    name: cheremhovskie-vedomosti.ru
+    url: https://cheremhovskie-vedomosti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: chernogorsk-city.ru
+    name: chernogorsk-city.ru
+    url: https://chernogorsk-city.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: chernomor.press
+    name: chernomor.press
+    url: https://chernomor.press/
+    method: GET
+    expectStatus: 200
+
+  - id: chernoyarets.ru
+    name: chernoyarets.ru
+    url: https://chernoyarets.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: chudovski-kolokol.ru
+    name: chudovski-kolokol.ru
+    url: https://chudovski-kolokol.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: chulman-vesti.ru
+    name: chulman-vesti.ru
+    url: https://chulman-vesti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: churapchy.ru
+    name: churapchy.ru
+    url: https://churapchy.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: chvestnik.ru
+    name: chvestnik.ru
+    url: https://chvestnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: chyi.ru
+    name: chyi.ru
+    url: https://chyi.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: dagkrim.ru
+    name: dagkrim.ru
+    url: https://dagkrim.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: dal-pravda.ru
+    name: dal-pravda.ru
+    url: https://dal-pravda.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: dalmatovskaya-niva.ru
+    name: dalmatovskaya-niva.ru
+    url: https://dalmatovskaya-niva.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: dalnerech.ru
+    name: dalnerech.ru
+    url: https://dalnerech.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: dalnereche.ru
+    name: dalnereche.ru
+    url: https://dalnereche.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: danilov-obozrenie.ru
+    name: danilov-obozrenie.ru
+    url: https://danilov-obozrenie.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: dankov-panorama.ru
+    name: dankov-panorama.ru
+    url: https://dankov-panorama.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: davydovskaya-poima.ru
+    name: davydovskaya-poima.ru
+    url: https://davydovskaya-poima.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: dedovichi.ru
+    name: dedovichi.ru
+    url: https://dedovichi.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: delklintsy.ru
+    name: delklintsy.ru
+    url: https://delklintsy.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: delkolchugino.ru
+    name: delkolchugino.ru
+    url: https://delkolchugino.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: delkurganinsk.ru
+    name: delkurganinsk.ru
+    url: https://delkurganinsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: delovaya-istra.ru
+    name: delovaya-istra.ru
+    url: https://delovaya-istra.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: delovayanyurba.ru
+    name: delovayanyurba.ru
+    url: https://delovayanyurba.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: delovoi-labinsk.ru
+    name: delovoi-labinsk.ru
+    url: https://delovoi-labinsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: demyanskaya-okruga.ru
+    name: demyanskaya-okruga.ru
+    url: https://demyanskaya-okruga.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: denis-kravchenko.ru
+    name: denis-kravchenko.ru
+    url: https://denis-kravchenko.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: deniskravchenko.ru
+    name: deniskravchenko.ru
+    url: https://deniskravchenko.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: derbent-vechorka.ru
+    name: derbent-vechorka.ru
+    url: https://derbent-vechorka.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: desnogorsk-news.ru
+    name: desnogorsk-news.ru
+    url: https://desnogorsk-news.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: dialog-kam.ru
+    name: dialog-kam.ru
+    url: https://dialog-kam.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: dialog-pikalevo.ru
+    name: dialog-pikalevo.ru
+    url: https://dialog-pikalevo.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: dialogkarel.ru
+    name: dialogkarel.ru
+    url: https://dialogkarel.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: digora-vesti.ru
+    name: digora-vesti.ru
+    url: https://digora-vesti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: digvesti.ru
+    name: digvesti.ru
+    url: https://digvesti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: dinskaya-pravda.ru
+    name: dinskaya-pravda.ru
+    url: https://dinskaya-pravda.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: dinskaya-zhizn.ru
+    name: dinskaya-zhizn.ru
+    url: https://dinskaya-zhizn.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: diplomatica.ru
+    name: diplomatica.ru
+    url: https://diplomatica.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: dni-kulebaki.ru
+    name: dni-kulebaki.ru
+    url: https://dni-kulebaki.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: dnovets.ru
+    name: dnovets.ru
+    url: https://dnovets.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: dobri-den.ru
+    name: dobri-den.ru
+    url: https://dobri-den.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: dobrii-den.ru
+    name: dobrii-den.ru
+    url: https://dobrii-den.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: dobtrud.ru
+    name: dobtrud.ru
+    url: https://dobtrud.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: dolinsk-rybak.ru
+    name: dolinsk-rybak.ru
+    url: https://dolinsk-rybak.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: domen-besplatno.ru
+    name: domen-besplatno.ru
+    url: https://domen-besplatno.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: domovenok-press.ru
+    name: domovenok-press.ru
+    url: https://domovenok-press.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: don-ak.ru
+    name: don-ak.ru
+    url: https://don-ak.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: donetski-veteran.ru
+    name: donetski-veteran.ru
+    url: https://donetski-veteran.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: donetsky-truzhenik.ru
+    name: donetsky-truzhenik.ru
+    url: https://donetsky-truzhenik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: donogni.ru
+    name: donogni.ru
+    url: https://donogni.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: dorogobuzh-gazeta.ru
+    name: dorogobuzh-gazeta.ru
+    url: https://dorogobuzh-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: dost-jizn.ru
+    name: dost-jizn.ru
+    url: https://dost-jizn.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: dubna-gorodok.ru
+    name: dubna-gorodok.ru
+    url: https://dubna-gorodok.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: dukhovskie-novosti.ru
+    name: dukhovskie-novosti.ru
+    url: https://dukhovskie-novosti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: duldurgin.ru
+    name: duldurgin.ru
+    url: https://duldurgin.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: dyrtuli-express.ru
+    name: dyrtuli-express.ru
+    url: https://dyrtuli-express.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: dyur-express.ru
+    name: dyur-express.ru
+    url: https://dyur-express.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: dzerzhinetspress.ru
+    name: dzerzhinetspress.ru
+    url: https://dzerzhinetspress.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: egorevskoe-utro.ru
+    name: egorevskoe-utro.ru
+    url: https://egorevskoe-utro.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: egorievskoe-utro.ru
+    name: egorievskoe-utro.ru
+    url: https://egorievskoe-utro.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ehokizlyara.ru
+    name: ehokizlyara.ru
+    url: https://ehokizlyara.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ehoosha.com
+    name: ehoosha.com
+    url: https://ehoosha.com/
+    method: GET
+    expectStatus: 200
+
+  - id: ehoosha.ru
+    name: ehoosha.ru
+    url: https://ehoosha.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: eiskiliman.ru
+    name: eiskiliman.ru
+    url: https://eiskiliman.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: elbrusnews.ru
+    name: elbrusnews.ru
+    url: https://elbrusnews.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: elkhotovo.ru
+    name: elkhotovo.ru
+    url: https://elkhotovo.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: elkhov-prostory.ru
+    name: elkhov-prostory.ru
+    url: https://elkhov-prostory.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: emelyanovo-besedy.ru
+    name: emelyanovo-besedy.ru
+    url: https://emelyanovo-besedy.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: eniseiskaya-gubernia.ru
+    name: eniseiskaya-gubernia.ru
+    url: https://eniseiskaya-gubernia.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: enotaevka-listok.ru
+    name: enotaevka-listok.ru
+    url: https://enotaevka-listok.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: enotaevski-listok.ru
+    name: enotaevski-listok.ru
+    url: https://enotaevski-listok.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ermakovskoe-utro.ru
+    name: ermakovskoe-utro.ru
+    url: https://ermakovskoe-utro.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: essentukskaya.ru
+    name: essentukskaya.ru
+    url: https://essentukskaya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: esso-news.ru
+    name: esso-news.ru
+    url: https://esso-news.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: esticrimea.ru
+    name: esticrimea.ru
+    url: https://esticrimea.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: evenchanka.ru
+    name: evenchanka.ru
+    url: https://evenchanka.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: evpatoria-objectiv.ru
+    name: evpatoria-objectiv.ru
+    url: https://evpatoria-objectiv.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: evpatoriski.ru
+    name: evpatoriski.ru
+    url: https://evpatoriski.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: faces-magazine.ru
+    name: faces-magazine.ru
+    url: https://faces-magazine.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: faces-vol.ru
+    name: faces-vol.ru
+    url: https://faces-vol.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: fatezhsky-golos.ru
+    name: fatezhsky-golos.ru
+    url: https://fatezhsky-golos.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: federalpress.ru
+    name: federalpress.ru
+    url: https://federalpress.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: feodosia-prov.ru
+    name: feodosia-prov.ru
+    url: https://feodosia-prov.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: fonar-yugra.ru
+    name: fonar-yugra.ru
+    url: https://fonar-yugra.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: forumkrim.ru
+    name: forumkrim.ru
+    url: https://forumkrim.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: freemediaforum.info
+    name: freemediaforum.info
+    url: https://freemediaforum.info/
+    method: GET
+    expectStatus: 200
+
+  - id: fryazinets.ru
+    name: fryazinets.ru
+    url: https://fryazinets.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: furmanovski-vestnik.ru
+    name: furmanovski-vestnik.ru
+    url: https://furmanovski-vestnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gadzhievo-news.ru
+    name: gadzhievo-news.ru
+    url: https://gadzhievo-news.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gagvesti.ru
+    name: gagvesti.ru
+    url: https://gagvesti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gatchina-dom.press
+    name: gatchina-dom.press
+    url: https://gatchina-dom.press/
+    method: GET
+    expectStatus: 200
+
+  - id: gatchina-press.ru
+    name: gatchina-press.ru
+    url: https://gatchina-press.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gavrilovyam.ru
+    name: gavrilovyam.ru
+    url: https://gavrilovyam.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gazeta-belozerie.ru
+    name: gazeta-belozerie.ru
+    url: https://gazeta-belozerie.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gazeta-dnovets.ru
+    name: gazeta-dnovets.ru
+    url: https://gazeta-dnovets.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gazeta-konakovo.ru
+    name: gazeta-konakovo.ru
+    url: https://gazeta-konakovo.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gazeta-organizator.ru
+    name: gazeta-organizator.ru
+    url: https://gazeta-organizator.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gazeta-osered.ru
+    name: gazeta-osered.ru
+    url: https://gazeta-osered.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gazeta-oshmes.ru
+    name: gazeta-oshmes.ru
+    url: https://gazeta-oshmes.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gazeta-pokrovskoe.ru
+    name: gazeta-pokrovskoe.ru
+    url: https://gazeta-pokrovskoe.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gazeta-polyus.ru
+    name: gazeta-polyus.ru
+    url: https://gazeta-polyus.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gazeta-safonovo.ru
+    name: gazeta-safonovo.ru
+    url: https://gazeta-safonovo.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gazeta-shelehov.ru
+    name: gazeta-shelehov.ru
+    url: https://gazeta-shelehov.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gazeta-sm.ru
+    name: gazeta-sm.ru
+    url: https://gazeta-sm.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gazeta-st.ru
+    name: gazeta-st.ru
+    url: https://gazeta-st.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gazeta-star.ru
+    name: gazeta-star.ru
+    url: https://gazeta-star.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gazeta-suoyarvi.ru
+    name: gazeta-suoyarvi.ru
+    url: https://gazeta-suoyarvi.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gazeta-tuapse.ru
+    name: gazeta-tuapse.ru
+    url: https://gazeta-tuapse.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gazeta-volna.ru
+    name: gazeta-volna.ru
+    url: https://gazeta-volna.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gazeta-zp.ru
+    name: gazeta-zp.ru
+    url: https://gazeta-zp.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gazetababaevo.ru
+    name: gazetababaevo.ru
+    url: https://gazetababaevo.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gazetakurg.ru
+    name: gazetakurg.ru
+    url: https://gazetakurg.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gazetaak.ru
+    name: gazetaak.ru
+    url: https://gazetaak.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gazetasovetsk.ru
+    name: gazetasovetsk.ru
+    url: https://gazetasovetsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gazetatavrika.ru
+    name: gazetatavrika.ru
+    url: https://gazetatavrika.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gazetavek.ru
+    name: gazetavek.ru
+    url: https://gazetavek.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gazetavest.info
+    name: gazetavest.info
+    url: https://gazetavest.info/
+    method: GET
+    expectStatus: 200
+
+  - id: gazetazt.ru
+    name: gazetazt.ru
+    url: https://gazetazt.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gdov-zarya.ru
+    name: gdov-zarya.ru
+    url: https://gdov-zarya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gekhi.ru
+    name: gekhi.ru
+    url: https://gekhi.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: geldagana.ru
+    name: geldagana.ru
+    url: https://geldagana.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gelendzhik-week.ru
+    name: gelendzhik-week.ru
+    url: https://gelendzhik-week.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: georgievsk-krepost.ru
+    name: georgievsk-krepost.ru
+    url: https://georgievsk-krepost.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: germanscrimea.ru
+    name: germanscrimea.ru
+    url: https://germanscrimea.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: geroldia.ru
+    name: geroldia.ru
+    url: https://geroldia.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: giaginskoe-vremya.ru
+    name: giaginskoe-vremya.ru
+    url: https://giaginskoe-vremya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gipanis.ru
+    name: gipanis.ru
+    url: https://gipanis.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gizbudni.ru
+    name: gizbudni.ru
+    url: https://gizbudni.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gizelbudni.ru
+    name: gizelbudni.ru
+    url: https://gizelbudni.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: glas-cherepanovo.ru
+    name: glas-cherepanovo.ru
+    url: https://glas-cherepanovo.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: glushkovo-vesti.ru
+    name: glushkovo-vesti.ru
+    url: https://glushkovo-vesti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: goity-vestnik.ru
+    name: goity-vestnik.ru
+    url: https://goity-vestnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: golden-berdsk.ru
+    name: golden-berdsk.ru
+    url: https://golden-berdsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: golos-chegem.ru
+    name: golos-chegem.ru
+    url: https://golos-chegem.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: golos-dobrinki.ru
+    name: golos-dobrinki.ru
+    url: https://golos-dobrinki.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: golos-kh.ru
+    name: golos-kh.ru
+    url: https://golos-kh.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: golos-ordynskogo.ru
+    name: golos-ordynskogo.ru
+    url: https://golos-ordynskogo.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: golos-p.ru
+    name: golos-p.ru
+    url: https://golos-p.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: golos-pestova.ru
+    name: golos-pestova.ru
+    url: https://golos-pestova.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: golos-pr.ru
+    name: golos-pr.ru
+    url: https://golos-pr.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: golos-prom.ru
+    name: golos-prom.ru
+    url: https://golos-prom.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: golos-shumihi.ru
+    name: golos-shumihi.ru
+    url: https://golos-shumihi.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: golos-t.ru
+    name: golos-t.ru
+    url: https://golos-t.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: golosadyg.ru
+    name: golosadyg.ru
+    url: https://golosadyg.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: golosamura.ru
+    name: golosamura.ru
+    url: https://golosamura.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: golosladogy.ru
+    name: golosladogy.ru
+    url: https://golosladogy.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: golosmozdoka.ru
+    name: golosmozdoka.ru
+    url: https://golosmozdoka.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: golyshman.ru
+    name: golyshman.ru
+    url: https://golyshman.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: goraltay.ru
+    name: goraltay.ru
+    url: https://goraltay.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gorcomvest.ru
+    name: gorcomvest.ru
+    url: https://gorcomvest.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gornaya-pravda.ru
+    name: gornaya-pravda.ru
+    url: https://gornaya-pravda.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gorod-frolovo.ru
+    name: gorod-frolovo.ru
+    url: https://gorod-frolovo.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gorod-kostomuksha.ru
+    name: gorod-kostomuksha.ru
+    url: https://gorod-kostomuksha.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gorod-kurchatov.ru
+    name: gorod-kurchatov.ru
+    url: https://gorod-kurchatov.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gorod-lukhovitsy.ru
+    name: gorod-lukhovitsy.ru
+    url: https://gorod-lukhovitsy.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gorod-oboyan.ru
+    name: gorod-oboyan.ru
+    url: https://gorod-oboyan.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gorod-ostrov.ru
+    name: gorod-ostrov.ru
+    url: https://gorod-ostrov.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gorod-sovetsky.ru
+    name: gorod-sovetsky.ru
+    url: https://gorod-sovetsky.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gorod-uchaly.ru
+    name: gorod-uchaly.ru
+    url: https://gorod-uchaly.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gorod-usman.ru
+    name: gorod-usman.ru
+    url: https://gorod-usman.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gorodbeloretsk.ru
+    name: gorodbeloretsk.ru
+    url: https://gorodbeloretsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gorodostrov.info
+    name: gorodostrov.info
+    url: https://gorodostrov.info/
+    method: GET
+    expectStatus: 200
+
+  - id: gorodsibai.ru
+    name: gorodsibai.ru
+    url: https://gorodsibai.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gorokhovets-vesti.ru
+    name: gorokhovets-vesti.ru
+    url: https://gorokhovets-vesti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gorozhane-gazeta.ru
+    name: gorozhane-gazeta.ru
+    url: https://gorozhane-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gorpravda.ru
+    name: gorpravda.ru
+    url: https://gorpravda.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gorshechnoe-vremya.ru
+    name: gorshechnoe-vremya.ru
+    url: https://gorshechnoe-vremya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: goryachi-klyuch.ru
+    name: goryachi-klyuch.ru
+    url: https://goryachi-klyuch.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: govorit-bobrov.ru
+    name: govorit-bobrov.ru
+    url: https://govorit-bobrov.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: govorit-krivosheino.ru
+    name: govorit-krivosheino.ru
+    url: https://govorit-krivosheino.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: govorit-luga.ru
+    name: govorit-luga.ru
+    url: https://govorit-luga.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: govorit-sichovka.ru
+    name: govorit-sichovka.ru
+    url: https://govorit-sichovka.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: govorit-sychevka.ru
+    name: govorit-sychevka.ru
+    url: https://govorit-sychevka.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: govorit-zhukovka.ru
+    name: govorit-zhukovka.ru
+    url: https://govorit-zhukovka.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: govoritluga.ru
+    name: govoritluga.ru
+    url: https://govoritluga.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: grach26.ru
+    name: grach26.ru
+    url: https://grach26.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gradjeleznogorsk.ru
+    name: gradjeleznogorsk.ru
+    url: https://gradjeleznogorsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gradzheleznogorsk.ru
+    name: gradzheleznogorsk.ru
+    url: https://gradzheleznogorsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gryazinski-vestnik.ru
+    name: gryazinski-vestnik.ru
+    url: https://gryazinski-vestnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gudermes-izvestia.ru
+    name: gudermes-izvestia.ru
+    url: https://gudermes-izvestia.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gulkevichi-press.ru
+    name: gulkevichi-press.ru
+    url: https://gulkevichi-press.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gulkevichi-week.ru
+    name: gulkevichi-week.ru
+    url: https://gulkevichi-week.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gurievsk-variant.ru
+    name: gurievsk-variant.ru
+    url: https://gurievsk-variant.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gurievski-vestnik.ru
+    name: gurievski-vestnik.ru
+    url: https://gurievski-vestnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: gusnovosti.ru
+    name: gusnovosti.ru
+    url: https://gusnovosti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: h-priziv.ru
+    name: h-priziv.ru
+    url: https://h-priziv.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: hangalasski-ulus.ru
+    name: hangalasski-ulus.ru
+    url: https://hangalasski-ulus.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: harovskpriziv.ru
+    name: harovskpriziv.ru
+    url: https://harovskpriziv.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: hasanvesti.ru
+    name: hasanvesti.ru
+    url: https://hasanvesti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: hasavyurt-vestnik.ru
+    name: hasavyurt-vestnik.ru
+    url: https://hasavyurt-vestnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: himki-gazeta.ru
+    name: himki-gazeta.ru
+    url: https://himki-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: hipanis.ru
+    name: hipanis.ru
+    url: https://hipanis.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: hlevenskaya-okruga.ru
+    name: hlevenskaya-okruga.ru
+    url: https://hlevenskaya-okruga.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: hvoinaya-raion.ru
+    name: hvoinaya-raion.ru
+    url: https://hvoinaya-raion.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ilanskoe-znamya.ru
+    name: ilanskoe-znamya.ru
+    url: https://ilanskoe-znamya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ilmen-berega.ru
+    name: ilmen-berega.ru
+    url: https://ilmen-berega.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ilsky-golos.ru
+    name: ilsky-golos.ru
+    url: https://ilsky-golos.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ilsky-gorozhanin.ru
+    name: ilsky-gorozhanin.ru
+    url: https://ilsky-gorozhanin.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: indsever.ru
+    name: indsever.ru
+    url: https://indsever.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: info-kras.ru
+    name: info-kras.ru
+    url: https://info-kras.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoabakan.ru
+    name: infoabakan.ru
+    url: https://infoabakan.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoabhaziya.ru
+    name: infoabhaziya.ru
+    url: https://infoabhaziya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoadyg.ru
+    name: infoadyg.ru
+    url: https://infoadyg.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoadygea.ru
+    name: infoadygea.ru
+    url: https://infoadygea.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoafip.ru
+    name: infoafip.ru
+    url: https://infoafip.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoagidel.ru
+    name: infoagidel.ru
+    url: https://infoagidel.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoak-dovurak.ru
+    name: infoak-dovurak.ru
+    url: https://infoak-dovurak.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoalan.ru
+    name: infoalan.ru
+    url: https://infoalan.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoalania.ru
+    name: infoalania.ru
+    url: https://infoalania.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoaldan.ru
+    name: infoaldan.ru
+    url: https://infoaldan.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoaleisk.ru
+    name: infoaleisk.ru
+    url: https://infoaleisk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoalta.ru
+    name: infoalta.ru
+    url: https://infoalta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoamur.ru
+    name: infoamur.ru
+    url: https://infoamur.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoarsenev.ru
+    name: infoarsenev.ru
+    url: https://infoarsenev.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoarseniev.ru
+    name: infoarseniev.ru
+    url: https://infoarseniev.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoastra.ru
+    name: infoastra.ru
+    url: https://infoastra.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoavtury.ru
+    name: infoavtury.ru
+    url: https://infoavtury.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infobabushkin.ru
+    name: infobabushkin.ru
+    url: https://infobabushkin.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infobaltica.ru
+    name: infobaltica.ru
+    url: https://infobaltica.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infobash.ru
+    name: infobash.ru
+    url: https://infobash.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infobaykal.ru
+    name: infobaykal.ru
+    url: https://infobaykal.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infobelg.ru
+    name: infobelg.ru
+    url: https://infobelg.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoberezovka.ru
+    name: infoberezovka.ru
+    url: https://infoberezovka.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infobeslan.ru
+    name: infobeslan.ru
+    url: https://infobeslan.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infobira.ru
+    name: infobira.ru
+    url: https://infobira.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoblag.ru
+    name: infoblag.ru
+    url: https://infoblag.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infobrics.ru
+    name: infobrics.ru
+    url: https://infobrics.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoburatia.ru
+    name: infoburatia.ru
+    url: https://infoburatia.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoburyatia.ru
+    name: infoburyatia.ru
+    url: https://infoburyatia.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infochadan.ru
+    name: infochadan.ru
+    url: https://infochadan.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infochelyabinsk.ru
+    name: infochelyabinsk.ru
+    url: https://infochelyabinsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infochermen.ru
+    name: infochermen.ru
+    url: https://infochermen.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infochukotka.ru
+    name: infochukotka.ru
+    url: https://infochukotka.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infochuv.ru
+    name: infochuv.ru
+    url: https://infochuv.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infochuvashia.ru
+    name: infochuvashia.ru
+    url: https://infochuvashia.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infocursk.ru
+    name: infocursk.ru
+    url: https://infocursk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infodag.ru
+    name: infodag.ru
+    url: https://infodag.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infodesna.info
+    name: infodesna.info
+    url: https://infodesna.info/
+    method: GET
+    expectStatus: 200
+
+  - id: infodivnoe.ru
+    name: infodivnoe.ru
+    url: https://infodivnoe.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infodivnogorsk.ru
+    name: infodivnogorsk.ru
+    url: https://infodivnogorsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infodnepr.ru
+    name: infodnepr.ru
+    url: https://infodnepr.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infodobryanka.ru
+    name: infodobryanka.ru
+    url: https://infodobryanka.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infodonskoe.ru
+    name: infodonskoe.ru
+    url: https://infodonskoe.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infodubrovka.ru
+    name: infodubrovka.ru
+    url: https://infodubrovka.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoduldurga.ru
+    name: infoduldurga.ru
+    url: https://infoduldurga.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infodvina.ru
+    name: infodvina.ru
+    url: https://infodvina.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infodyatkovo.ru
+    name: infodyatkovo.ru
+    url: https://infodyatkovo.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoelbrus.ru
+    name: infoelbrus.ru
+    url: https://infoelbrus.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoelburgan.ru
+    name: infoelburgan.ru
+    url: https://infoelburgan.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoelizavetinskaya.ru
+    name: infoelizavetinskaya.ru
+    url: https://infoelizavetinskaya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoelizovo.ru
+    name: infoelizovo.ru
+    url: https://infoelizovo.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoenisey.ru
+    name: infoenisey.ru
+    url: https://infoenisey.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoglazunovka.ru
+    name: infoglazunovka.ru
+    url: https://infoglazunovka.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infogornyak.ru
+    name: infogornyak.ru
+    url: https://infogornyak.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infogorodovikovsk.ru
+    name: infogorodovikovsk.ru
+    url: https://infogorodovikovsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infogukovo.ru
+    name: infogukovo.ru
+    url: https://infogukovo.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infogulkevichi.ru
+    name: infogulkevichi.ru
+    url: https://infogulkevichi.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infohab.ru
+    name: infohab.ru
+    url: https://infohab.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infohabarovsk.ru
+    name: infohabarovsk.ru
+    url: https://infohabarovsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoingush.ru
+    name: infoingush.ru
+    url: https://infoingush.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoingushetia.ru
+    name: infoingushetia.ru
+    url: https://infoingushetia.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoipatovo.ru
+    name: infoipatovo.ru
+    url: https://infoipatovo.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoirkut.ru
+    name: infoirkut.ru
+    url: https://infoirkut.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoiset.ru
+    name: infoiset.ru
+    url: https://infoiset.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoistochnik.ru
+    name: infoistochnik.ru
+    url: https://infoistochnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoivanovo.ru
+    name: infoivanovo.ru
+    url: https://infoivanovo.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infokalgan.ru
+    name: infokalgan.ru
+    url: https://infokalgan.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infokalm.ru
+    name: infokalm.ru
+    url: https://infokalm.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infokalmykia.ru
+    name: infokalmykia.ru
+    url: https://infokalmykia.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infokaltan.ru
+    name: infokaltan.ru
+    url: https://infokaltan.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infokaluga.ru
+    name: infokaluga.ru
+    url: https://infokaluga.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infokama.ru
+    name: infokama.ru
+    url: https://infokama.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infokamchatka.ru
+    name: infokamchatka.ru
+    url: https://infokamchatka.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infokamyshin.ru
+    name: infokamyshin.ru
+    url: https://infokamyshin.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infokamysin.ru
+    name: infokamysin.ru
+    url: https://infokamysin.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infokaraga.ru
+    name: infokaraga.ru
+    url: https://infokaraga.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infokarel.ru
+    name: infokarel.ru
+    url: https://infokarel.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infokarelia.ru
+    name: infokarelia.ru
+    url: https://infokarelia.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infokargasok.ru
+    name: infokargasok.ru
+    url: https://infokargasok.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infokatun.ru
+    name: infokatun.ru
+    url: https://infokatun.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infokb.ru
+    name: infokb.ru
+    url: https://infokb.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infokemer.ru
+    name: infokemer.ru
+    url: https://infokemer.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infokemerovo.ru
+    name: infokemerovo.ru
+    url: https://infokemerovo.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infokg.ru
+    name: infokg.ru
+    url: https://infokg.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infokirovsk.ru
+    name: infokirovsk.ru
+    url: https://infokirovsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infokirzhach.ru
+    name: infokirzhach.ru
+    url: https://infokirzhach.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infokola.ru
+    name: infokola.ru
+    url: https://infokola.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infokologriv.ru
+    name: infokologriv.ru
+    url: https://infokologriv.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infokomi.ru
+    name: infokomi.ru
+    url: https://infokomi.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infokommunar.ru
+    name: infokommunar.ru
+    url: https://infokommunar.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infokostroma.info
+    name: infokostroma.info
+    url: https://infokostroma.info/
+    method: GET
+    expectStatus: 200
+
+  - id: infokrasn.ru
+    name: infokrasn.ru
+    url: https://infokrasn.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infokrasnodar.ru
+    name: infokrasnodar.ru
+    url: https://infokrasnodar.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infokrim.info
+    name: infokrim.info
+    url: https://infokrim.info/
+    method: GET
+    expectStatus: 200
+
+  - id: infokurg.ru
+    name: infokurg.ru
+    url: https://infokurg.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infokurgan.ru
+    name: infokurgan.ru
+    url: https://infokurgan.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infokursavka.ru
+    name: infokursavka.ru
+    url: https://infokursavka.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infokursk.info
+    name: infokursk.info
+    url: https://infokursk.info/
+    method: GET
+    expectStatus: 200
+
+  - id: infokursk.pro
+    name: infokursk.pro
+    url: https://infokursk.pro/
+    method: GET
+    expectStatus: 200
+
+  - id: infokurskaya.ru
+    name: infokurskaya.ru
+    url: https://infokurskaya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infokushchevskaya.ru
+    name: infokushchevskaya.ru
+    url: https://infokushchevskaya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infolena.ru
+    name: infolena.ru
+    url: https://infolena.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infolipechk.ru
+    name: infolipechk.ru
+    url: https://infolipechk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infolipetsk.com
+    name: infolipetsk.com
+    url: https://infolipetsk.com/
+    method: GET
+    expectStatus: 200
+
+  - id: infoliski.ru
+    name: infoliski.ru
+    url: https://infoliski.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infomagad.ru
+    name: infomagad.ru
+    url: https://infomagad.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infomagadan.ru
+    name: infomagadan.ru
+    url: https://infomagadan.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infomaima.ru
+    name: infomaima.ru
+    url: https://infomaima.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infomari.ru
+    name: infomari.ru
+    url: https://infomari.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infomelenki.ru
+    name: infomelenki.ru
+    url: https://infomelenki.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infomikhailovka.ru
+    name: infomikhailovka.ru
+    url: https://infomikhailovka.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infominusinsk.ru
+    name: infominusinsk.ru
+    url: https://infominusinsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infomordovia.ru
+    name: infomordovia.ru
+    url: https://infomordovia.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infomosk.ru
+    name: infomosk.ru
+    url: https://infomosk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infomoskovia.ru
+    name: infomoskovia.ru
+    url: https://infomoskovia.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infomurmansk.ru
+    name: infomurmansk.ru
+    url: https://infomurmansk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoneftekumsk.ru
+    name: infoneftekumsk.ru
+    url: https://infoneftekumsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infonen.ru
+    name: infonen.ru
+    url: https://infonen.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infonerl.ru
+    name: infonerl.ru
+    url: https://infonerl.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoneva.ru
+    name: infoneva.ru
+    url: https://infoneva.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infonikolskoe.ru
+    name: infonikolskoe.ru
+    url: https://infonikolskoe.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infonnov.ru
+    name: infonnov.ru
+    url: https://infonnov.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infonovgorod.ru
+    name: infonovgorod.ru
+    url: https://infonovgorod.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infonovokubansk.ru
+    name: infonovokubansk.ru
+    url: https://infonovokubansk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infonovosib.ru
+    name: infonovosib.ru
+    url: https://infonovosib.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infonovosibirsk.ru
+    name: infonovosibirsk.ru
+    url: https://infonovosibirsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infonovousman.ru
+    name: infonovousman.ru
+    url: https://infonovousman.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infonovousmansk.ru
+    name: infonovousmansk.ru
+    url: https://infonovousmansk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infonsib.ru
+    name: infonsib.ru
+    url: https://infonsib.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infooka.ru
+    name: infooka.ru
+    url: https://infooka.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoolekma.ru
+    name: infoolekma.ru
+    url: https://infoolekma.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoom.ru
+    name: infoom.ru
+    url: https://infoom.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoorenburg.ru
+    name: infoorenburg.ru
+    url: https://infoorenburg.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoossora.ru
+    name: infoossora.ru
+    url: https://infoossora.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoparma.ru
+    name: infoparma.ru
+    url: https://infoparma.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infopartizansk.ru
+    name: infopartizansk.ru
+    url: https://infopartizansk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infopechora.ru
+    name: infopechora.ru
+    url: https://infopechora.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infopoltavskaya.ru
+    name: infopoltavskaya.ru
+    url: https://infopoltavskaya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infopraskoveya.ru
+    name: infopraskoveya.ru
+    url: https://infopraskoveya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infopriazove.ru
+    name: infopriazove.ru
+    url: https://infopriazove.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infopriozersk.ru
+    name: infopriozersk.ru
+    url: https://infopriozersk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infopskov.ru
+    name: infopskov.ru
+    url: https://infopskov.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infopskova.ru
+    name: infopskova.ru
+    url: https://infopskova.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infopur.ru
+    name: infopur.ru
+    url: https://infopur.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infopushkino.ru
+    name: infopushkino.ru
+    url: https://infopushkino.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: inforaychihinsk.ru
+    name: inforaychihinsk.ru
+    url: https://inforaychihinsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: inform-kurier.ru
+    name: inform-kurier.ru
+    url: https://inform-kurier.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: inforos.org
+    name: inforos.org
+    url: https://inforos.org/
+    method: GET
+    expectStatus: 200
+
+  - id: inforos.ru
+    name: inforos.ru
+    url: https://inforos.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: inforost.ru
+    name: inforost.ru
+    url: https://inforost.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: inforyaz.ru
+    name: inforyaz.ru
+    url: https://inforyaz.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: inforyazan.com
+    name: inforyazan.com
+    url: https://inforyazan.com/
+    method: GET
+    expectStatus: 200
+
+  - id: infosahalin.ru
+    name: infosahalin.ru
+    url: https://infosahalin.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infosam.ru
+    name: infosam.ru
+    url: https://infosam.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infosamara.press
+    name: infosamara.press
+    url: https://infosamara.press/
+    method: GET
+    expectStatus: 200
+
+  - id: infosarat.ru
+    name: infosarat.ru
+    url: https://infosarat.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infosco.biz
+    name: infosco.biz
+    url: https://infosco.biz/
+    method: GET
+    expectStatus: 200
+
+  - id: infosco.org
+    name: infosco.org
+    url: https://infosco.org/
+    method: GET
+    expectStatus: 200
+
+  - id: infosevastopol.ru
+    name: infosevastopol.ru
+    url: https://infosevastopol.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoseveromorsk.ru
+    name: infoseveromorsk.ru
+    url: https://infoseveromorsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoshagonar.ru
+    name: infoshagonar.ru
+    url: https://infoshagonar.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infosharya.ru
+    name: infosharya.ru
+    url: https://infosharya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infosibai.ru
+    name: infosibai.ru
+    url: https://infosibai.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infosibir.ru
+    name: infosibir.ru
+    url: https://infosibir.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infosimbirsk.ru
+    name: infosimbirsk.ru
+    url: https://infosimbirsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infosobolevo.ru
+    name: infosobolevo.ru
+    url: https://infosobolevo.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infosokol.ru
+    name: infosokol.ru
+    url: https://infosokol.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infosolnechnyi.ru
+    name: infosolnechnyi.ru
+    url: https://infosolnechnyi.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infostavr.ru
+    name: infostavr.ru
+    url: https://infostavr.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infosura.ru
+    name: infosura.ru
+    url: https://infosura.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infosvetogorsk.ru
+    name: infosvetogorsk.ru
+    url: https://infosvetogorsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infotam.ru
+    name: infotam.ru
+    url: https://infotam.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infotambov.ru
+    name: infotambov.ru
+    url: https://infotambov.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infotatarstan.ru
+    name: infotatarstan.ru
+    url: https://infotatarstan.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infotbilisskaya.ru
+    name: infotbilisskaya.ru
+    url: https://infotbilisskaya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infotemryuk.ru
+    name: infotemryuk.ru
+    url: https://infotemryuk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoterek.info
+    name: infoterek.info
+    url: https://infoterek.info/
+    method: GET
+    expectStatus: 200
+
+  - id: infoterek.ru
+    name: infoterek.ru
+    url: https://infoterek.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infotigil.ru
+    name: infotigil.ru
+    url: https://infotigil.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infotilichiki.ru
+    name: infotilichiki.ru
+    url: https://infotilichiki.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infotom.ru
+    name: infotom.ru
+    url: https://infotom.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infotosno.ru
+    name: infotosno.ru
+    url: https://infotosno.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infotsiolkovskiy.ru
+    name: infotsiolkovskiy.ru
+    url: https://infotsiolkovskiy.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infotul.ru
+    name: infotul.ru
+    url: https://infotul.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infotula.com
+    name: infotula.com
+    url: https://infotula.com/
+    method: GET
+    expectStatus: 200
+
+  - id: infotumen.ru
+    name: infotumen.ru
+    url: https://infotumen.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoturan.ru
+    name: infoturan.ru
+    url: https://infoturan.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infotuva.ru
+    name: infotuva.ru
+    url: https://infotuva.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infotver.ru
+    name: infotver.ru
+    url: https://infotver.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infotvers.ru
+    name: infotvers.ru
+    url: https://infotvers.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infotynda.ru
+    name: infotynda.ru
+    url: https://infotynda.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoudachniy.ru
+    name: infoudachniy.ru
+    url: https://infoudachniy.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoudm.ru
+    name: infoudm.ru
+    url: https://infoudm.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoudmurtia.ru
+    name: infoudmurtia.ru
+    url: https://infoudmurtia.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoulyanovsk.ru
+    name: infoulyanovsk.ru
+    url: https://infoulyanovsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infouraltau.ru
+    name: infouraltau.ru
+    url: https://infouraltau.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infovladimiria.ru
+    name: infovladimiria.ru
+    url: https://infovladimiria.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infovolg.ru
+    name: infovolg.ru
+    url: https://infovolg.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infovolga.com
+    name: infovolga.com
+    url: https://infovolga.com/
+    method: GET
+    expectStatus: 200
+
+  - id: infovolhov.ru
+    name: infovolhov.ru
+    url: https://infovolhov.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infovolog.ru
+    name: infovolog.ru
+    url: https://infovolog.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infovologda.ru
+    name: infovologda.ru
+    url: https://infovologda.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infovoroneg.ru
+    name: infovoroneg.ru
+    url: https://infovoroneg.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infovoronezh.com
+    name: infovoronezh.com
+    url: https://infovoronezh.com/
+    method: GET
+    expectStatus: 200
+
+  - id: infovostok.ru
+    name: infovostok.ru
+    url: https://infovostok.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infovulkan.ru
+    name: infovulkan.ru
+    url: https://infovulkan.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infovyatka.ru
+    name: infovyatka.ru
+    url: https://infovyatka.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infovyksa.ru
+    name: infovyksa.ru
+    url: https://infovyksa.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoya.ru
+    name: infoya.ru
+    url: https://infoya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoyakutia.ru
+    name: infoyakutia.ru
+    url: https://infoyakutia.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoyamal.ru
+    name: infoyamal.ru
+    url: https://infoyamal.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoyanaul.ru
+    name: infoyanaul.ru
+    url: https://infoyanaul.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoygra.ru
+    name: infoygra.ru
+    url: https://infoygra.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoyug.ru
+    name: infoyug.ru
+    url: https://infoyug.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infoyugra.ru
+    name: infoyugra.ru
+    url: https://infoyugra.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infozelenokumsk.ru
+    name: infozelenokumsk.ru
+    url: https://infozelenokumsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infozeya.ru
+    name: infozeya.ru
+    url: https://infozeya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: infozverevo.ru
+    name: infozverevo.ru
+    url: https://infozverevo.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ingush-meridian.ru
+    name: ingush-meridian.ru
+    url: https://ingush-meridian.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: initsiativakrim.ru
+    name: initsiativakrim.ru
+    url: https://initsiativakrim.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: irafi.ru
+    name: irafi.ru
+    url: https://irafi.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: irbeiskoe-vremya.ru
+    name: irbeiskoe-vremya.ru
+    url: https://irbeiskoe-vremya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: isetskaya-pravda.ru
+    name: isetskaya-pravda.ru
+    url: https://isetskaya-pravda.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: isetski-efir.ru
+    name: isetski-efir.ru
+    url: https://isetski-efir.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: iskra-et.ru
+    name: iskra-et.ru
+    url: https://iskra-et.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: iskra-j.ru
+    name: iskra-j.ru
+    url: https://iskra-j.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: iskra-vihorevki.ru
+    name: iskra-vihorevki.ru
+    url: https://iskra-vihorevki.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: istoki-p.ru
+    name: istoki-p.ru
+    url: https://istoki-p.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: iv-gazeta.ru
+    name: iv-gazeta.ru
+    url: https://iv-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ivanovskie-rassvety.ru
+    name: ivanovskie-rassvety.ru
+    url: https://ivanovskie-rassvety.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ivanovskie-rodniki.ru
+    name: ivanovskie-rodniki.ru
+    url: https://ivanovskie-rodniki.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: izvor-bg.ru
+    name: izvor-bg.ru
+    url: https://izvor-bg.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: jatay.ru
+    name: jatay.ru
+    url: https://jatay.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: jenbur.ru
+    name: jenbur.ru
+    url: https://jenbur.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: k-sorm.ru
+    name: k-sorm.ru
+    url: https://k-sorm.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ka-izvestia.ru
+    name: ka-izvestia.ru
+    url: https://ka-izvestia.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kaa-khem.press
+    name: kaa-khem.press
+    url: https://kaa-khem.press/
+    method: GET
+    expectStatus: 200
+
+  - id: kabansk-d.ru
+    name: kabansk-d.ru
+    url: https://kabansk-d.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kalach-inform.ru
+    name: kalach-inform.ru
+    url: https://kalach-inform.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kalach-izvestia.ru
+    name: kalach-izvestia.ru
+    url: https://kalach-izvestia.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kaleidoskop-pavlovo.ru
+    name: kaleidoskop-pavlovo.ru
+    url: https://kaleidoskop-pavlovo.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kalevalskaya-gornitsa.ru
+    name: kalevalskaya-gornitsa.ru
+    url: https://kalevalskaya-gornitsa.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kamenskie-sobytia.ru
+    name: kamenskie-sobytia.ru
+    url: https://kamenskie-sobytia.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kamyshlin.ru
+    name: kamyshlin.ru
+    url: https://kamyshlin.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kamyzyak-rodnik.ru
+    name: kamyzyak-rodnik.ru
+    url: https://kamyzyak-rodnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kan-kanev.ru
+    name: kan-kanev.ru
+    url: https://kan-kanev.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kanevskaya-nedelya.ru
+    name: kanevskaya-nedelya.ru
+    url: https://kanevskaya-nedelya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: karabashrab.ru
+    name: karabashrab.ru
+    url: https://karabashrab.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: karabulak-sovet.ru
+    name: karabulak-sovet.ru
+    url: https://karabulak-sovet.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: karaga-raion.ru
+    name: karaga-raion.ru
+    url: https://karaga-raion.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: karagasok.ru
+    name: karagasok.ru
+    url: https://karagasok.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: karavest.ru
+    name: karavest.ru
+    url: https://karavest.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: karel-news.ru
+    name: karel-news.ru
+    url: https://karel-news.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kargasok-gazeta.ru
+    name: kargasok-gazeta.ru
+    url: https://kargasok-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: karpinrab.ru
+    name: karpinrab.ru
+    url: https://karpinrab.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kasimov-panorama.ru
+    name: kasimov-panorama.ru
+    url: https://kasimov-panorama.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kasimovskaya-panorama.ru
+    name: kasimovskaya-panorama.ru
+    url: https://kasimovskaya-panorama.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kaspinews.ru
+    name: kaspinews.ru
+    url: https://kaspinews.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kaspiyskie-stranitsi.ru
+    name: kaspiyskie-stranitsi.ru
+    url: https://kaspiyskie-stranitsi.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kaspnews.ru
+    name: kaspnews.ru
+    url: https://kaspnews.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kataiski-gorozhanin.ru
+    name: kataiski-gorozhanin.ru
+    url: https://kataiski-gorozhanin.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: katar-yurt.ru
+    name: katar-yurt.ru
+    url: https://katar-yurt.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kavkaz-meridian.ru
+    name: kavkaz-meridian.ru
+    url: https://kavkaz-meridian.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kazachia-buhta.ru
+    name: kazachia-buhta.ru
+    url: https://kazachia-buhta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kazanskoe-dzd.ru
+    name: kazanskoe-dzd.ru
+    url: https://kazanskoe-dzd.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kerch-rb.ru
+    name: kerch-rb.ru
+    url: https://kerch-rb.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: khadyzhensk-pravda.ru
+    name: khadyzhensk-pravda.ru
+    url: https://khadyzhensk-pravda.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: khasynsky.ru
+    name: khasynsky.ru
+    url: https://khasynsky.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: khtvesti.ru
+    name: khtvesti.ru
+    url: https://khtvesti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kimry-region.ru
+    name: kimry-region.ru
+    url: https://kimry-region.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kineshma-pravda.ru
+    name: kineshma-pravda.ru
+    url: https://kineshma-pravda.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kingisepp-day.ru
+    name: kingisepp-day.ru
+    url: https://kingisepp-day.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kirovest.ru
+    name: kirovest.ru
+    url: https://kirovest.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kirovsk-gazeta.ru
+    name: kirovsk-gazeta.ru
+    url: https://kirovsk-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kislovodskaya-pravda.ru
+    name: kislovodskaya-pravda.ru
+    url: https://kislovodskaya-pravda.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kitay-gorod.ru
+    name: kitay-gorod.ru
+    url: https://kitay-gorod.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kizlyar-izvestia.ru
+    name: kizlyar-izvestia.ru
+    url: https://kizlyar-izvestia.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kizlyar-vesti.ru
+    name: kizlyar-vesti.ru
+    url: https://kizlyar-vesti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kizlyarskie-izvestia.ru
+    name: kizlyarskie-izvestia.ru
+    url: https://kizlyarskie-izvestia.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: klimvestnik.ru
+    name: klimvestnik.ru
+    url: https://klimvestnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: klin-novosti.ru
+    name: klin-novosti.ru
+    url: https://klin-novosti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kochenevo-gazeta.ru
+    name: kochenevo-gazeta.ru
+    url: https://kochenevo-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kodinskie-vesty.ru
+    name: kodinskie-vesty.ru
+    url: https://kodinskie-vesty.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kogalym-rb.ru
+    name: kogalym-rb.ru
+    url: https://kogalym-rb.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kola-bay.ru
+    name: kola-bay.ru
+    url: https://kola-bay.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kolomnal.ru
+    name: kolomnal.ru
+    url: https://kolomnal.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kolym-pravda.ru
+    name: kolym-pravda.ru
+    url: https://kolym-pravda.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: komarichi-kray.ru
+    name: komarichi-kray.ru
+    url: https://komarichi-kray.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kompas-gubkina.ru
+    name: kompas-gubkina.ru
+    url: https://kompas-gubkina.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kompass-bui.ru
+    name: kompass-bui.ru
+    url: https://kompass-bui.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: komsomol-news.ru
+    name: komsomol-news.ru
+    url: https://komsomol-news.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: komvolna.ru
+    name: komvolna.ru
+    url: https://komvolna.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kondopoj.ru
+    name: kondopoj.ru
+    url: https://kondopoj.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kondrovskie-budni.ru
+    name: kondrovskie-budni.ru
+    url: https://kondrovskie-budni.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: konstantinovsk-today.ru
+    name: konstantinovsk-today.ru
+    url: https://konstantinovsk-today.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kontakt-sayansk.ru
+    name: kontakt-sayansk.ru
+    url: https://kontakt-sayansk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: korabel-sv.ru
+    name: korabel-sv.ru
+    url: https://korabel-sv.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: korablino-gazeta.ru
+    name: korablino-gazeta.ru
+    url: https://korablino-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: korenovskaya-nov.ru
+    name: korenovskaya-nov.ru
+    url: https://korenovskaya-nov.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: korolyov-news.ru
+    name: korolyov-news.ru
+    url: https://korolyov-news.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kosh-agach.com
+    name: kosh-agach.com
+    url: https://kosh-agach.com/
+    method: GET
+    expectStatus: 200
+
+  - id: koshekhabl.ru
+    name: koshekhabl.ru
+    url: https://koshekhabl.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kotovestnik.ru
+    name: kotovestnik.ru
+    url: https://kotovestnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kovrovgazeta.ru
+    name: kovrovgazeta.ru
+    url: https://kovrovgazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kozelsky-telegraf.ru
+    name: kozelsky-telegraf.ru
+    url: https://kozelsky-telegraf.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kozhkrai.ru
+    name: kozhkrai.ru
+    url: https://kozhkrai.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kozulsk-gazeta.ru
+    name: kozulsk-gazeta.ru
+    url: https://kozulsk-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kras-okt.ru
+    name: kras-okt.ru
+    url: https://kras-okt.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: krasnoe-znamya.info
+    name: krasnoe-znamya.info
+    url: https://krasnoe-znamya.info/
+    method: GET
+    expectStatus: 200
+
+  - id: krasnoozerskoe.ru
+    name: krasnoozerskoe.ru
+    url: https://krasnoozerskoe.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: krasnoper.ru
+    name: krasnoper.ru
+    url: https://krasnoper.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: krasnoznamensk-plus.ru
+    name: krasnoznamensk-plus.ru
+    url: https://krasnoznamensk-plus.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: krasnoznamya.ru
+    name: krasnoznamya.ru
+    url: https://krasnoznamya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kremenki-inform.ru
+    name: kremenki-inform.ru
+    url: https://kremenki-inform.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: krestetski-raion.ru
+    name: krestetski-raion.ru
+    url: https://krestetski-raion.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: krim-gazeta.ru
+    name: krim-gazeta.ru
+    url: https://krim-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: krimkuray.ru
+    name: krimkuray.ru
+    url: https://krimkuray.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kromskie-rodniki.ru
+    name: kromskie-rodniki.ru
+    url: https://kromskie-rodniki.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: krovstroy.ru
+    name: krovstroy.ru
+    url: https://krovstroy.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: krymsk-krasnodar.ru
+    name: krymsk-krasnodar.ru
+    url: https://krymsk-krasnodar.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kshensky-vestnik.ru
+    name: kshensky-vestnik.ru
+    url: https://kshensky-vestnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kstovo-budni.ru
+    name: kstovo-budni.ru
+    url: https://kstovo-budni.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kstovskie-budni.ru
+    name: kstovskie-budni.ru
+    url: https://kstovskie-budni.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ktmu.ru
+    name: ktmu.ru
+    url: https://ktmu.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ku-metallurg.ru
+    name: ku-metallurg.ru
+    url: https://ku-metallurg.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kubanskie-volny.ru
+    name: kubanskie-volny.ru
+    url: https://kubanskie-volny.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kudymkar-vedomosti.ru
+    name: kudymkar-vedomosti.ru
+    url: https://kudymkar-vedomosti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kulebaki.press
+    name: kulebaki.press
+    url: https://kulebaki.press/
+    method: GET
+    expectStatus: 200
+
+  - id: kungurgazeta.ru
+    name: kungurgazeta.ru
+    url: https://kungurgazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kupino-gazeta.ru
+    name: kupino-gazeta.ru
+    url: https://kupino-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kurchaloi.ru
+    name: kurchaloi.ru
+    url: https://kurchaloi.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kurtamish.ru
+    name: kurtamish.ru
+    url: https://kurtamish.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: kyahta-gazeta.ru
+    name: kyahta-gazeta.ru
+    url: https://kyahta-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: l-baikal.ru
+    name: l-baikal.ru
+    url: https://l-baikal.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: labinskie-berega.ru
+    name: labinskie-berega.ru
+    url: https://labinskie-berega.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ladoga-krai.ru
+    name: ladoga-krai.ru
+    url: https://ladoga-krai.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ladozhski-krai.ru
+    name: ladozhski-krai.ru
+    url: https://ladozhski-krai.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: lebedyanskaya.ru
+    name: lebedyanskaya.ru
+    url: https://lebedyanskaya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: lensklife.ru
+    name: lensklife.ru
+    url: https://lensklife.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: lensky-nasleg.ru
+    name: lensky-nasleg.ru
+    url: https://lensky-nasleg.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: lesken-gazeta.ru
+    name: lesken-gazeta.ru
+    url: https://lesken-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: lesosibirsk-vesti.ru
+    name: lesosibirsk-vesti.ru
+    url: https://lesosibirsk-vesti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: lesozavodsk-time.ru
+    name: lesozavodsk-time.ru
+    url: https://lesozavodsk-time.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: lestnicagzt.ru
+    name: lestnicagzt.ru
+    url: https://lestnicagzt.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: levokumsk.ru
+    name: levokumsk.ru
+    url: https://levokumsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: levozerovo.ru
+    name: levozerovo.ru
+    url: https://levozerovo.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: lgovsky-vestnik.ru
+    name: lgovsky-vestnik.ru
+    url: https://lgovsky-vestnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: life-kch.ru
+    name: life-kch.ru
+    url: https://life-kch.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: limanvestnik.ru
+    name: limanvestnik.ru
+    url: https://limanvestnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: liski-gorod.ru
+    name: liski-gorod.ru
+    url: https://liski-gorod.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: listok-ga.ru
+    name: listok-ga.ru
+    url: https://listok-ga.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: livny-na-ladoni.ru
+    name: livny-na-ladoni.ru
+    url: https://livny-na-ladoni.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: lk-anons.ru
+    name: lk-anons.ru
+    url: https://lk-anons.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: lobnya-pravda.ru
+    name: lobnya-pravda.ru
+    url: https://lobnya-pravda.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: louhi24.ru
+    name: louhi24.ru
+    url: https://louhi24.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: lovozero-vzglyad.ru
+    name: lovozero-vzglyad.ru
+    url: https://lovozero-vzglyad.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ludprol.ru
+    name: ludprol.ru
+    url: https://ludprol.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: lyubitino-news.ru
+    name: lyubitino-news.ru
+    url: https://lyubitino-news.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: lyudinka.ru
+    name: lyudinka.ru
+    url: https://lyudinka.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: lyudinovski-proletari.ru
+    name: lyudinovski-proletari.ru
+    url: https://lyudinovski-proletari.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: m-gazeta.info
+    name: m-gazeta.info
+    url: https://m-gazeta.info/
+    method: GET
+    expectStatus: 200
+
+  - id: m-ingushetiya.ru
+    name: m-ingushetiya.ru
+    url: https://m-ingushetiya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: magdagachi-press.ru
+    name: magdagachi-press.ru
+    url: https://magdagachi-press.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: magnievik.ru
+    name: magnievik.ru
+    url: https://magnievik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: mairtup-zemledelets.ru
+    name: mairtup-zemledelets.ru
+    url: https://mairtup-zemledelets.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: mairtup.info
+    name: mairtup.info
+    url: https://mairtup.info/
+    method: GET
+    expectStatus: 200
+
+  - id: malaya-purga.ru
+    name: malaya-purga.ru
+    url: https://malaya-purga.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: malderbety.ru
+    name: malderbety.ru
+    url: https://malderbety.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: malovisherskaya-pravda.ru
+    name: malovisherskaya-pravda.ru
+    url: https://malovisherskaya-pravda.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: maloyar-izvestiya.ru
+    name: maloyar-izvestiya.ru
+    url: https://maloyar-izvestiya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: maloyaroslavets-izvestia.ru
+    name: maloyaroslavets-izvestia.ru
+    url: https://maloyaroslavets-izvestia.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: mamonovskie-vesti.ru
+    name: mamonovskie-vesti.ru
+    url: https://mamonovskie-vesti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: manych-press.ru
+    name: manych-press.ru
+    url: https://manych-press.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: mariinsk-gorod.ru
+    name: mariinsk-gorod.ru
+    url: https://mariinsk-gorod.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: maximum-kor.ru
+    name: maximum-kor.ru
+    url: https://maximum-kor.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ak-kr.ru
+    name: ak-kr.ru
+    url: https://ak-kr.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ak-sp.ru
+    name: ak-sp.ru
+    url: https://ak-sp.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ak-spassk.ru
+    name: ak-spassk.ru
+    url: https://ak-spassk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ak57.ru
+    name: ak57.ru
+    url: https://ak57.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: akarc.ru
+    name: akarc.ru
+    url: https://akarc.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: news.ru
+    name: news.ru
+    url: https://news.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: mcensky.ru
+    name: mcensky.ru
+    url: https://mcensky.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: mdgazet.ru
+    name: mdgazet.ru
+    url: https://mdgazet.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: medvenka.ru
+    name: medvenka.ru
+    url: https://medvenka.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: mejdure4e.ru
+    name: mejdure4e.ru
+    url: https://mejdure4e.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: meleuzka.info
+    name: meleuzka.info
+    url: https://meleuzka.info/
+    method: GET
+    expectStatus: 200
+
+  - id: mercurius11.ru
+    name: mercurius11.ru
+    url: https://mercurius11.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: mestnaya-vlast.ru
+    name: mestnaya-vlast.ru
+    url: https://mestnaya-vlast.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: mezhveter.ru
+    name: mezhveter.ru
+    url: https://mezhveter.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: mglinsky-golos.ru
+    name: mglinsky-golos.ru
+    url: https://mglinsky-golos.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: mih-vestnik.ru
+    name: mih-vestnik.ru
+    url: https://mih-vestnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: mihailov-glavnoe.ru
+    name: mihailov-glavnoe.ru
+    url: https://mihailov-glavnoe.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: mikhailovskoe-vremya.ru
+    name: mikhailovskoe-vremya.ru
+    url: https://mikhailovskoe-vremya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: mikhajlovskoe.ru
+    name: mikhajlovskoe.ru
+    url: https://mikhajlovskoe.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: milkovo-vesti.ru
+    name: milkovo-vesti.ru
+    url: https://milkovo-vesti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: milkovskie-vesti.ru
+    name: milkovskie-vesti.ru
+    url: https://milkovskie-vesti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: minusinsk-today.ru
+    name: minusinsk-today.ru
+    url: https://minusinsk-today.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: minvody-time.ru
+    name: minvody-time.ru
+    url: https://minvody-time.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: mir-baikala.ru
+    name: mir-baikala.ru
+    url: https://mir-baikala.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: mirnoe-slovo.ru
+    name: mirnoe-slovo.ru
+    url: https://mirnoe-slovo.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: moi-belorechensk.ru
+    name: moi-belorechensk.ru
+    url: https://moi-belorechensk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: moi-monchegorsk.ru
+    name: moi-monchegorsk.ru
+    url: https://moi-monchegorsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: moi-polyarny.ru
+    name: moi-polyarny.ru
+    url: https://moi-polyarny.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: molingushetia.ru
+    name: molingushetia.ru
+    url: https://molingushetia.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: molodbur.ru
+    name: molodbur.ru
+    url: https://molodbur.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: molodost-mozhgi.ru
+    name: molodost-mozhgi.ru
+    url: https://molodost-mozhgi.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: molodostsibiri.ru
+    name: molodostsibiri.ru
+    url: https://molodostsibiri.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: morozovskii.ru
+    name: morozovskii.ru
+    url: https://morozovskii.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: mosalskgazeta.ru
+    name: mosalskgazeta.ru
+    url: https://mosalskgazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: moshkovo-horizon.ru
+    name: moshkovo-horizon.ru
+    url: https://moshkovo-horizon.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: moskva-reka.info
+    name: moskva-reka.info
+    url: https://moskva-reka.info/
+    method: GET
+    expectStatus: 200
+
+  - id: moskvapetushki.ru
+    name: moskvapetushki.ru
+    url: https://moskvapetushki.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: moy-bataisk.ru
+    name: moy-bataisk.ru
+    url: https://moy-bataisk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: moya-shatura.ru
+    name: moya-shatura.ru
+    url: https://moya-shatura.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: muezerskles.ru
+    name: muezerskles.ru
+    url: https://muezerskles.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: muhoshibir.ru
+    name: muhoshibir.ru
+    url: https://muhoshibir.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: muravlenko-sn.ru
+    name: muravlenko-sn.ru
+    url: https://muravlenko-sn.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: murmash.ru
+    name: murmash.ru
+    url: https://murmash.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: muromregion.ru
+    name: muromregion.ru
+    url: https://muromregion.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: my-nahodka.ru
+    name: my-nahodka.ru
+    url: https://my-nahodka.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: n-ingash.ru
+    name: n-ingash.ru
+    url: https://n-ingash.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: n-sever.ru
+    name: n-sever.ru
+    url: https://n-sever.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: n-vestnik.ru
+    name: n-vestnik.ru
+    url: https://n-vestnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: n-vologda.ru
+    name: n-vologda.ru
+    url: https://n-vologda.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: n-vremya.ru
+    name: n-vremya.ru
+    url: https://n-vremya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: n-vse.ru
+    name: n-vse.ru
+    url: https://n-vse.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: na-vodakh.ru
+    name: na-vodakh.ru
+    url: https://na-vodakh.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: nadezhda-vichuzhan.ru
+    name: nadezhda-vichuzhan.ru
+    url: https://nadezhda-vichuzhan.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: nar-gazeta.ru
+    name: nar-gazeta.ru
+    url: https://nar-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: narkom-ru.ru
+    name: narkom-ru.ru
+    url: https://narkom-ru.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: naryshkino-news.ru
+    name: naryshkino-news.ru
+    url: https://naryshkino-news.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: nash-kolos.ru
+    name: nash-kolos.ru
+    url: https://nash-kolos.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: nash-kurchatov.ru
+    name: nash-kurchatov.ru
+    url: https://nash-kurchatov.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: nash-nevelsk.ru
+    name: nash-nevelsk.ru
+    url: https://nash-nevelsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: nash-polevskoy.ru
+    name: nash-polevskoy.ru
+    url: https://nash-polevskoy.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: nash-ryazhsk.ru
+    name: nash-ryazhsk.ru
+    url: https://nash-ryazhsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: nash-susuman.ru
+    name: nash-susuman.ru
+    url: https://nash-susuman.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: nasha-alushta.ru
+    name: nasha-alushta.ru
+    url: https://nasha-alushta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: nasha-gazeta.ru
+    name: nasha-gazeta.ru
+    url: https://nasha-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: nashanadejda.ru
+    name: nashanadejda.ru
+    url: https://nashanadejda.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: nashanavlya.ru
+    name: nashanavlya.ru
+    url: https://nashanavlya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: nashazhizn-gvardeisk.ru
+    name: nashazhizn-gvardeisk.ru
+    url: https://nashazhizn-gvardeisk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: nashe-verhovie.ru
+    name: nashe-verhovie.ru
+    url: https://nashe-verhovie.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: nashesadovoe.ru
+    name: nashesadovoe.ru
+    url: https://nashesadovoe.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: nashsosnovoborsk.ru
+    name: nashsosnovoborsk.ru
+    url: https://nashsosnovoborsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: nastroenie-74.ru
+    name: nastroenie-74.ru
+    url: https://nastroenie-74.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: nastroenie-ch.ru
+    name: nastroenie-ch.ru
+    url: https://nastroenie-ch.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: naukograd-reutov.ru
+    name: naukograd-reutov.ru
+    url: https://naukograd-reutov.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: navolne-gazeta.ru
+    name: navolne-gazeta.ru
+    url: https://navolne-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: nazarovoonline.ru
+    name: nazarovoonline.ru
+    url: https://nazarovoonline.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: nd-gazeta.ru
+    name: nd-gazeta.ru
+    url: https://nd-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: nekrasov-slovo.ru
+    name: nekrasov-slovo.ru
+    url: https://nekrasov-slovo.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: nemanskie-vesti.ru
+    name: nemanskie-vesti.ru
+    url: https://nemanskie-vesti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: nerekht-vecherka.ru
+    name: nerekht-vecherka.ru
+    url: https://nerekht-vecherka.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: netterroru.ru
+    name: netterroru.ru
+    url: https://netterroru.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: nevelife.ru
+    name: nevelife.ru
+    url: https://nevelife.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: new-dagestan.ru
+    name: new-dagestan.ru
+    url: https://new-dagestan.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: new-kandalaksha.ru
+    name: new-kandalaksha.ru
+    url: https://new-kandalaksha.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: nf-vestnik.ru
+    name: nf-vestnik.ru
+    url: https://nf-vestnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ng-gazeta.ru
+    name: ng-gazeta.ru
+    url: https://ng-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: nikvedomosti.ru
+    name: nikvedomosti.ru
+    url: https://nikvedomosti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: nivagazeta.ru
+    name: nivagazeta.ru
+    url: https://nivagazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: nizhneudinsk-vestnik.ru
+    name: nizhneudinsk-vestnik.ru
+    url: https://nizhneudinsk-vestnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: nj-orel.ru
+    name: nj-orel.ru
+    url: https://nj-orel.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: nk-vesti.ru
+    name: nk-vesti.ru
+    url: https://nk-vesti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: nogaydav.ru
+    name: nogaydav.ru
+    url: https://nogaydav.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: noginskie-vedomosti.ru
+    name: noginskie-vedomosti.ru
+    url: https://noginskie-vedomosti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: nogir-nedelya.ru
+    name: nogir-nedelya.ru
+    url: https://nogir-nedelya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: norilsk-vecherka.ru
+    name: norilsk-vecherka.ru
+    url: https://norilsk-vecherka.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: nov-pitkaranta.ru
+    name: nov-pitkaranta.ru
+    url: https://nov-pitkaranta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: novayagazeta-glazov.ru
+    name: novayagazeta-glazov.ru
+    url: https://novayagazeta-glazov.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: novi-den.info
+    name: novi-den.info
+    url: https://novi-den.info/
+    method: GET
+    expectStatus: 200
+
+  - id: novi-urengoy.ru
+    name: novi-urengoy.ru
+    url: https://novi-urengoy.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: novivzglyad-kirov.ru
+    name: novivzglyad-kirov.ru
+    url: https://novivzglyad-kirov.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: noviyvzglyad-kirov.ru
+    name: noviyvzglyad-kirov.ru
+    url: https://noviyvzglyad-kirov.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: novjizn.ru
+    name: novjizn.ru
+    url: https://novjizn.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: novoaleksandrovsky.ru
+    name: novoaleksandrovsky.ru
+    url: https://novoaleksandrovsky.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: novoalt-pravda.ru
+    name: novoalt-pravda.ru
+    url: https://novoalt-pravda.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: novocherkassk-week.ru
+    name: novocherkassk-week.ru
+    url: https://novocherkassk-week.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: novohopersk-zori.ru
+    name: novohopersk-zori.ru
+    url: https://novohopersk-zori.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: novokubansk-news.ru
+    name: novokubansk-news.ru
+    url: https://novokubansk-news.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: novokuznetsk-press.ru
+    name: novokuznetsk-press.ru
+    url: https://novokuznetsk-press.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: novopravda.ru
+    name: novopravda.ru
+    url: https://novopravda.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: novoselitskoe.info
+    name: novoselitskoe.info
+    url: https://novoselitskoe.info/
+    method: GET
+    expectStatus: 200
+
+  - id: novosti-ikryanogo.ru
+    name: novosti-ikryanogo.ru
+    url: https://novosti-ikryanogo.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: novosti-kohmi.ru
+    name: novosti-kohmi.ru
+    url: https://novosti-kohmi.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: novosti-uezda.ru
+    name: novosti-uezda.ru
+    url: https://novosti-uezda.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: novosti-zav.ru
+    name: novosti-zav.ru
+    url: https://novosti-zav.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: novotitarovskaya.ru
+    name: novotitarovskaya.ru
+    url: https://novotitarovskaya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: novouralskaya-gazeta.ru
+    name: novouralskaya-gazeta.ru
+    url: https://novouralskaya-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: novousman.ru
+    name: novousman.ru
+    url: https://novousman.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: novovremya.ru
+    name: novovremya.ru
+    url: https://novovremya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: novozybkov-vesti.ru
+    name: novozybkov-vesti.ru
+    url: https://novozybkov-vesti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: novtikhvin.ru
+    name: novtikhvin.ru
+    url: https://novtikhvin.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: novutpo.ru
+    name: novutpo.ru
+    url: https://novutpo.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: novzjizn.ru
+    name: novzjizn.ru
+    url: https://novzjizn.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: noyabrsk-gazeta.ru
+    name: noyabrsk-gazeta.ru
+    url: https://noyabrsk-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: nr-odincovo.ru
+    name: nr-odincovo.ru
+    url: https://nr-odincovo.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: nsk-gazeta.ru
+    name: nsk-gazeta.ru
+    url: https://nsk-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ntavda.ru
+    name: ntavda.ru
+    url: https://ntavda.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: nv-vestnik.ru
+    name: nv-vestnik.ru
+    url: https://nv-vestnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: nyagan-info.ru
+    name: nyagan-info.ru
+    url: https://nyagan-info.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: nzhizn.ru
+    name: nzhizn.ru
+    url: https://nzhizn.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: nzjizn.ru
+    name: nzjizn.ru
+    url: https://nzjizn.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ob-gazeta.ru
+    name: ob-gazeta.ru
+    url: https://ob-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: obbereg.ru
+    name: obbereg.ru
+    url: https://obbereg.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: oboyangorod.ru
+    name: oboyangorod.ru
+    url: https://oboyangorod.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: obraz-asino.ru
+    name: obraz-asino.ru
+    url: https://obraz-asino.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ogni-belorechenska.ru
+    name: ogni-belorechenska.ru
+    url: https://ogni-belorechenska.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ogni-slantsy.ru
+    name: ogni-slantsy.ru
+    url: https://ogni-slantsy.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ognigorod.ru
+    name: ognigorod.ru
+    url: https://ognigorod.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ohapress.ru
+    name: ohapress.ru
+    url: https://ohapress.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ohotsk-pravda.ru
+    name: ohotsk-pravda.ru
+    url: https://ohotsk-pravda.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: okno-ch.ru
+    name: okno-ch.ru
+    url: https://okno-ch.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: okno-sn.ru
+    name: okno-sn.ru
+    url: https://okno-sn.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: okno-uzhura.ru
+    name: okno-uzhura.ru
+    url: https://okno-uzhura.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: okt-iskra.ru
+    name: okt-iskra.ru
+    url: https://okt-iskra.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: oktday.ru
+    name: oktday.ru
+    url: https://oktday.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: oktiskra74.ru
+    name: oktiskra74.ru
+    url: https://oktiskra74.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: okttime.ru
+    name: okttime.ru
+    url: https://okttime.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: oktznamya.ru
+    name: oktznamya.ru
+    url: https://oktznamya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: olenegorsk-city.ru
+    name: olenegorsk-city.ru
+    url: https://olenegorsk-city.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: olonets-sosed.ru
+    name: olonets-sosed.ru
+    url: https://olonets-sosed.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: olsky-vestnik.ru
+    name: olsky-vestnik.ru
+    url: https://olsky-vestnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: olyutor-novosti.ru
+    name: olyutor-novosti.ru
+    url: https://olyutor-novosti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: omegatrade.ru
+    name: omegatrade.ru
+    url: https://omegatrade.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: omutninsk-vedomosti.ru
+    name: omutninsk-vedomosti.ru
+    url: https://omutninsk-vedomosti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ooo-remontnik.ru
+    name: ooo-remontnik.ru
+    url: https://ooo-remontnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: opochka-vestnik.ru
+    name: opochka-vestnik.ru
+    url: https://opochka-vestnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: orichi-inform.ru
+    name: orichi-inform.ru
+    url: https://orichi-inform.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: osinniki-favorit.ru
+    name: osinniki-favorit.ru
+    url: https://osinniki-favorit.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: oskolzori.ru
+    name: oskolzori.ru
+    url: https://oskolzori.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ostrogozhtsi.ru
+    name: ostrogozhtsi.ru
+    url: https://ostrogozhtsi.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: osuzdal.ru
+    name: osuzdal.ru
+    url: https://osuzdal.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: osvod-crimea.ru
+    name: osvod-crimea.ru
+    url: https://osvod-crimea.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: otkritaya-linia.ru
+    name: otkritaya-linia.ru
+    url: https://otkritaya-linia.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: otkrytaya-linia.ru
+    name: otkrytaya-linia.ru
+    url: https://otkrytaya-linia.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: otradnaya-gazeta.ru
+    name: otradnaya-gazeta.ru
+    url: https://otradnaya-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: otradnaya-info.ru
+    name: otradnaya-info.ru
+    url: https://otradnaya-info.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: palana-news.ru
+    name: palana-news.ru
+    url: https://palana-news.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: panorama-elizovo.ru
+    name: panorama-elizovo.ru
+    url: https://panorama-elizovo.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: parfino-news.ru
+    name: parfino-news.ru
+    url: https://parfino-news.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: patriot-alt.ru
+    name: patriot-alt.ru
+    url: https://patriot-alt.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: pavlov-gazeta.ru
+    name: pavlov-gazeta.ru
+    url: https://pavlov-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: pavlovsk-youth.ru
+    name: pavlovsk-youth.ru
+    url: https://pavlovsk-youth.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: pechenga-today.ru
+    name: pechenga-today.ru
+    url: https://pechenga-today.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: pechori-online.ru
+    name: pechori-online.ru
+    url: https://pechori-online.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: penzhinsky.ru
+    name: penzhinsky.ru
+    url: https://penzhinsky.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: pereslavlife.ru
+    name: pereslavlife.ru
+    url: https://pereslavlife.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: pervouralsk-hronika.ru
+    name: pervouralsk-hronika.ru
+    url: https://pervouralsk-hronika.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: petrovsk-zabaykalsk.ru
+    name: petrovsk-zabaykalsk.ru
+    url: https://petrovsk-zabaykalsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: plamya-v.ru
+    name: plamya-v.ru
+    url: https://plamya-v.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: planeta-nadim.ru
+    name: planeta-nadim.ru
+    url: https://planeta-nadim.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: plusred.ru
+    name: plusred.ru
+    url: https://plusred.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: pobeda-kn.ru
+    name: pobeda-kn.ru
+    url: https://pobeda-kn.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: pochepvestnik.ru
+    name: pochepvestnik.ru
+    url: https://pochepvestnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: pochinok-smolensk.ru
+    name: pochinok-smolensk.ru
+    url: https://pochinok-smolensk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: poehaligagarin.ru
+    name: poehaligagarin.ru
+    url: https://poehaligagarin.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: pogar-vesti.ru
+    name: pogar-vesti.ru
+    url: https://pogar-vesti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: pokachi-time.ru
+    name: pokachi-time.ru
+    url: https://pokachi-time.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: polarzori.ru
+    name: polarzori.ru
+    url: https://polarzori.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: polesskyvestnik.ru
+    name: polesskyvestnik.ru
+    url: https://polesskyvestnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: poltavskaya-jizn.ru
+    name: poltavskaya-jizn.ru
+    url: https://poltavskaya-jizn.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: polyarny-ural.ru
+    name: polyarny-ural.ru
+    url: https://polyarny-ural.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: poperinat.ru
+    name: poperinat.ru
+    url: https://poperinat.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: porhov-city.ru
+    name: porhov-city.ru
+    url: https://porhov-city.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: poselok-anna.ru
+    name: poselok-anna.ru
+    url: https://poselok-anna.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: pp-vesti.ru
+    name: pp-vesti.ru
+    url: https://pp-vesti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: pr-gorod.ru
+    name: pr-gorod.ru
+    url: https://pr-gorod.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: pravda-k.ru
+    name: pravda-k.ru
+    url: https://pravda-k.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: pravda-s.ru
+    name: pravda-s.ru
+    url: https://pravda-s.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: pravfond.ru
+    name: pravfond.ru
+    url: https://pravfond.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: pravfund.ru
+    name: pravfund.ru
+    url: https://pravfund.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: pravoznat-39.ru
+    name: pravoznat-39.ru
+    url: https://pravoznat-39.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: pregradnaya-gazeta.ru
+    name: pregradnaya-gazeta.ru
+    url: https://pregradnaya-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: priangarie-mv.ru
+    name: priangarie-mv.ru
+    url: https://priangarie-mv.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: prichernomorie.ru
+    name: prichernomorie.ru
+    url: https://prichernomorie.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: prim-zori.ru
+    name: prim-zori.ru
+    url: https://prim-zori.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: prinevskii.ru
+    name: prinevskii.ru
+    url: https://prinevskii.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: prioskolye.ru
+    name: prioskolye.ru
+    url: https://prioskolye.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: prisayanie.ru
+    name: prisayanie.ru
+    url: https://prisayanie.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: prisivashie.ru
+    name: prisivashie.ru
+    url: https://prisivashie.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: privet-timashevsk.ru
+    name: privet-timashevsk.ru
+    url: https://privet-timashevsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: privolzhskaya-volna.ru
+    name: privolzhskaya-volna.ru
+    url: https://privolzhskaya-volna.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: priyutnoe.ru
+    name: priyutnoe.ru
+    url: https://priyutnoe.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: priziv-harovsk.ru
+    name: priziv-harovsk.ru
+    url: https://priziv-harovsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: priziv-press.ru
+    name: priziv-press.ru
+    url: https://priziv-press.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: proberezovo.ru
+    name: proberezovo.ru
+    url: https://proberezovo.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: prodelo-s.ru
+    name: prodelo-s.ru
+    url: https://prodelo-s.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: proiskitim.ru
+    name: proiskitim.ru
+    url: https://proiskitim.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: prokopievsk-variant.ru
+    name: prokopievsk-variant.ru
+    url: https://prokopievsk-variant.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: prokrym.info
+    name: prokrym.info
+    url: https://prokrym.info/
+    method: GET
+    expectStatus: 200
+
+  - id: prom-kemerovo.ru
+    name: prom-kemerovo.ru
+    url: https://prom-kemerovo.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: promagadan.ru
+    name: promagadan.ru
+    url: https://promagadan.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: pronikolskoe.ru
+    name: pronikolskoe.ru
+    url: https://pronikolskoe.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: pronskie-izvestia.ru
+    name: pronskie-izvestia.ru
+    url: https://pronskie-izvestia.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: pronskie-izvestiya.ru
+    name: pronskie-izvestiya.ru
+    url: https://pronskie-izvestiya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: prootradnoe.ru
+    name: prootradnoe.ru
+    url: https://prootradnoe.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: propeterburg.info
+    name: propeterburg.info
+    url: https://propeterburg.info/
+    method: GET
+    expectStatus: 200
+
+  - id: prosaratov.info
+    name: prosaratov.info
+    url: https://prosaratov.info/
+    method: GET
+    expectStatus: 200
+
+  - id: prosevastopol.info
+    name: prosevastopol.info
+    url: https://prosevastopol.info/
+    method: GET
+    expectStatus: 200
+
+  - id: prospekt-sochi.com
+    name: prospekt-sochi.com
+    url: https://prospekt-sochi.com/
+    method: GET
+    expectStatus: 200
+
+  - id: protvinskie-berega.ru
+    name: protvinskie-berega.ru
+    url: https://protvinskie-berega.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: provintsialnoe-zerkalo.ru
+    name: provintsialnoe-zerkalo.ru
+    url: https://provintsialnoe-zerkalo.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: provladimir.info
+    name: provladimir.info
+    url: https://provladimir.info/
+    method: GET
+    expectStatus: 200
+
+  - id: provnews.ru
+    name: provnews.ru
+    url: https://provnews.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: pryamitsino-news.ru
+    name: pryamitsino-news.ru
+    url: https://pryamitsino-news.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: pryazhvesti.ru
+    name: pryazhvesti.ru
+    url: https://pryazhvesti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: psebaets.ru
+    name: psebaets.ru
+    url: https://psebaets.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: psebay-dni.ru
+    name: psebay-dni.ru
+    url: https://psebay-dni.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: pudog.ru
+    name: pudog.ru
+    url: https://pudog.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: pulsea.ru
+    name: pulsea.ru
+    url: https://pulsea.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: pulsnedeli.ru
+    name: pulsnedeli.ru
+    url: https://pulsnedeli.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: pushkin-kray.ru
+    name: pushkin-kray.ru
+    url: https://pushkin-kray.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: putokt.ru
+    name: putokt.ru
+    url: https://putokt.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: rab-slovo.ru
+    name: rab-slovo.ru
+    url: https://rab-slovo.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: rabslovo.ru
+    name: rabslovo.ru
+    url: https://rabslovo.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: raduzhny-info.ru
+    name: raduzhny-info.ru
+    url: https://raduzhny-info.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: raivestn.ru
+    name: raivestn.ru
+    url: https://raivestn.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ramon-anons.ru
+    name: ramon-anons.ru
+    url: https://ramon-anons.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: rassvet-balezino.ru
+    name: rassvet-balezino.ru
+    url: https://rassvet-balezino.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: rb-yar.ru
+    name: rb-yar.ru
+    url: https://rb-yar.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: rdzem.ru
+    name: rdzem.ru
+    url: https://rdzem.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: rech-vol.ru
+    name: rech-vol.ru
+    url: https://rech-vol.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: red-banner.ru
+    name: red-banner.ru
+    url: https://red-banner.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: red-yar.ru
+    name: red-yar.ru
+    url: https://red-yar.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: revda-news.ru
+    name: revda-news.ru
+    url: https://revda-news.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: rilskie-vesti.ru
+    name: rilskie-vesti.ru
+    url: https://rilskie-vesti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ritm-rybnoe.ru
+    name: ritm-rybnoe.ru
+    url: https://ritm-rybnoe.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: rodina-shuya.ru
+    name: rodina-shuya.ru
+    url: https://rodina-shuya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: rodniki-gazeta.ru
+    name: rodniki-gazeta.ru
+    url: https://rodniki-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: rodrov.ru
+    name: rodrov.ru
+    url: https://rodrov.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: rossosh-vedomosti.ru
+    name: rossosh-vedomosti.ru
+    url: https://rossosh-vedomosti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: rostov-province.ru
+    name: rostov-province.ru
+    url: https://rostov-province.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: rov-niva.ru
+    name: rov-niva.ru
+    url: https://rov-niva.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: rudnyansky-raion.ru
+    name: rudnyansky-raion.ru
+    url: https://rudnyansky-raion.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: rusakartvelo.org
+    name: rusakartvelo.org
+    url: https://rusakartvelo.org/
+    method: GET
+    expectStatus: 200
+
+  - id: rutulnews.ru
+    name: rutulnews.ru
+    url: https://rutulnews.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ruvek.info
+    name: ruvek.info
+    url: https://ruvek.info/
+    method: GET
+    expectStatus: 200
+
+  - id: ruza-express.ru
+    name: ruza-express.ru
+    url: https://ruza-express.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: rylsk-vesti.ru
+    name: rylsk-vesti.ru
+    url: https://rylsk-vesti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: rzhev-press.ru
+    name: rzhev-press.ru
+    url: https://rzhev-press.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: rzpravda.ru
+    name: rzpravda.ru
+    url: https://rzpravda.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: s-pravda.ru
+    name: s-pravda.ru
+    url: https://s-pravda.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: s-put.ru
+    name: s-put.ru
+    url: https://s-put.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: s-vektor.ru
+    name: s-vektor.ru
+    url: https://s-vektor.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: saintanna.ru
+    name: saintanna.ru
+    url: https://saintanna.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: sakipress.ru
+    name: sakipress.ru
+    url: https://sakipress.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: saklife.ru
+    name: saklife.ru
+    url: https://saklife.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: salskaya-step.ru
+    name: salskaya-step.ru
+    url: https://salskaya-step.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: sambo.com
+    name: sambo.com
+    url: https://sambo.com/
+    method: GET
+    expectStatus: 200
+
+  - id: samolet-v.ru
+    name: samolet-v.ru
+    url: https://samolet-v.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: samotlorexpress.ru
+    name: samotlorexpress.ru
+    url: https://samotlorexpress.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: samotlorpress.ru
+    name: samotlorpress.ru
+    url: https://samotlorpress.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: sarov-vedomosti.ru
+    name: sarov-vedomosti.ru
+    url: https://sarov-vedomosti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: sarovskie-vedomosti.ru
+    name: sarovskie-vedomosti.ru
+    url: https://sarovskie-vedomosti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: sarvesti.info
+    name: sarvesti.info
+    url: https://sarvesti.info/
+    method: GET
+    expectStatus: 200
+
+  - id: sasovskie-vesti.ru
+    name: sasovskie-vesti.ru
+    url: https://sasovskie-vesti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: sbdialog.ru
+    name: sbdialog.ru
+    url: https://sbdialog.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: segeja.ru
+    name: segeja.ru
+    url: https://segeja.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: segeza.ru
+    name: segeza.ru
+    url: https://segeza.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: segezha-vektor.ru
+    name: segezha-vektor.ru
+    url: https://segezha-vektor.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: sel-nov.ru
+    name: sel-nov.ru
+    url: https://sel-nov.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: sel-pr.ru
+    name: sel-pr.ru
+    url: https://sel-pr.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: sel-pravda.ru
+    name: sel-pravda.ru
+    url: https://sel-pravda.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: sel-tas.ru
+    name: sel-tas.ru
+    url: https://sel-tas.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: selenga-press.ru
+    name: selenga-press.ru
+    url: https://selenga-press.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: selivanovskie-zori.ru
+    name: selivanovskie-zori.ru
+    url: https://selivanovskie-zori.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: selnov-nesterov.ru
+    name: selnov-nesterov.ru
+    url: https://selnov-nesterov.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: selnov-prim.ru
+    name: selnov-prim.ru
+    url: https://selnov-prim.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: selnov-v.ru
+    name: selnov-v.ru
+    url: https://selnov-v.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: selosamashki.ru
+    name: selosamashki.ru
+    url: https://selosamashki.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: selskaya-okolitsa.ru
+    name: selskaya-okolitsa.ru
+    url: https://selskaya-okolitsa.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: seltr.ru
+    name: seltr.ru
+    url: https://seltr.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: seltso-pravda.ru
+    name: seltso-pravda.ru
+    url: https://seltso-pravda.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: seltsovskaya-pravda.ru
+    name: seltsovskaya-pravda.ru
+    url: https://seltsovskaya-pravda.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: semenovsky-kupets.ru
+    name: semenovsky-kupets.ru
+    url: https://semenovsky-kupets.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: semibratovo-prostory.ru
+    name: semibratovo-prostory.ru
+    url: https://semibratovo-prostory.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: semikarakorskgazeta.ru
+    name: semikarakorskgazeta.ru
+    url: https://semikarakorskgazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: semiluki-vestnik.ru
+    name: semiluki-vestnik.ru
+    url: https://semiluki-vestnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: semkargazeta.ru
+    name: semkargazeta.ru
+    url: https://semkargazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: sergievposadpress.ru
+    name: sergievposadpress.ru
+    url: https://sergievposadpress.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: sertolovo-nedelya.ru
+    name: sertolovo-nedelya.ru
+    url: https://sertolovo-nedelya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: sevastopol-sovet.ru
+    name: sevastopol-sovet.ru
+    url: https://sevastopol-sovet.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: sever-podmoskovia.ru
+    name: sever-podmoskovia.ru
+    url: https://sever-podmoskovia.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: severpravda.ru
+    name: severpravda.ru
+    url: https://severpravda.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: seversk-digest.ru
+    name: seversk-digest.ru
+    url: https://seversk-digest.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: sevkurilsk.ru
+    name: sevkurilsk.ru
+    url: https://sevkurilsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: sgazeta-op.ru
+    name: sgazeta-op.ru
+    url: https://sgazeta-op.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: sgzt.com
+    name: sgzt.com
+    url: https://sgzt.com/
+    method: GET
+    expectStatus: 200
+
+  - id: sh-vestnik.ru
+    name: sh-vestnik.ru
+    url: https://sh-vestnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: shadrinski-vestnik.ru
+    name: shadrinski-vestnik.ru
+    url: https://shadrinski-vestnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: shaht-vest.ru
+    name: shaht-vest.ru
+    url: https://shaht-vest.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: shali-info.ru
+    name: shali-info.ru
+    url: https://shali-info.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: shalinskoe.ru
+    name: shalinskoe.ru
+    url: https://shalinskoe.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: shchigrovskie-zori.ru
+    name: shchigrovskie-zori.ru
+    url: https://shchigrovskie-zori.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: shchigry-zori.ru
+    name: shchigry-zori.ru
+    url: https://shchigry-zori.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: shegarka-press.ru
+    name: shegarka-press.ru
+    url: https://shegarka-press.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: sheksnagazeta.ru
+    name: sheksnagazeta.ru
+    url: https://sheksnagazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: shelkovchanka.ru
+    name: shelkovchanka.ru
+    url: https://shelkovchanka.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: shilovski-put.ru
+    name: shilovski-put.ru
+    url: https://shilovski-put.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: shiravest.ru
+    name: shiravest.ru
+    url: https://shiravest.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: sholem.ru
+    name: sholem.ru
+    url: https://sholem.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: shushenskoevremya.ru
+    name: shushenskoevremya.ru
+    url: https://shushenskoevremya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: shuya-teleskop.ru
+    name: shuya-teleskop.ru
+    url: https://shuya-teleskop.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: sibnedelya.ru
+    name: sibnedelya.ru
+    url: https://sibnedelya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: sibpanorama.ru
+    name: sibpanorama.ru
+    url: https://sibpanorama.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: site.ru
+    name: site.ru
+    url: https://site.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: skopin-avtoagregat.ru
+    name: skopin-avtoagregat.ru
+    url: https://skopin-avtoagregat.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: slavsknews.ru
+    name: slavsknews.ru
+    url: https://slavsknews.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: slavyanskaya-gazeta.ru
+    name: slavyanskaya-gazeta.ru
+    url: https://slavyanskaya-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: slobodskoi.ru
+    name: slobodskoi.ru
+    url: https://slobodskoi.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: slovo-neftyanika.ru
+    name: slovo-neftyanika.ru
+    url: https://slovo-neftyanika.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: sm-vesti.ru
+    name: sm-vesti.ru
+    url: https://sm-vesti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: smi-holm.ru
+    name: smi-holm.ru
+    url: https://smi-holm.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: smi-volna.ru
+    name: smi-volna.ru
+    url: https://smi-volna.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: snbalahta.ru
+    name: snbalahta.ru
+    url: https://snbalahta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: snezhnogorsk-gazeta.ru
+    name: snezhnogorsk-gazeta.ru
+    url: https://snezhnogorsk-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: sobinka-gazeta.ru
+    name: sobinka-gazeta.ru
+    url: https://sobinka-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: sol-meridian.ru
+    name: sol-meridian.ru
+    url: https://sol-meridian.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: soltsy.ru
+    name: soltsy.ru
+    url: https://soltsy.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: sorsk-gazeta.ru
+    name: sorsk-gazeta.ru
+    url: https://sorsk-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: sosedskievesti.ru
+    name: sosedskievesti.ru
+    url: https://sosedskievesti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: sov-zap.ru
+    name: sov-zap.ru
+    url: https://sov-zap.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: sov-zvezda.ru
+    name: sov-zvezda.ru
+    url: https://sov-zvezda.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: sovet-serpukhov.ru
+    name: sovet-serpukhov.ru
+    url: https://sovet-serpukhov.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: sovetsk-vopros.ru
+    name: sovetsk-vopros.ru
+    url: https://sovetsk-vopros.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: spasskoe-vremya.ru
+    name: spasskoe-vremya.ru
+    url: https://spasskoe-vremya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: sprostor.ru
+    name: sprostor.ru
+    url: https://sprostor.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: sputnik-sarapul.ru
+    name: sputnik-sarapul.ru
+    url: https://sputnik-sarapul.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: stal-iskra.ru
+    name: stal-iskra.ru
+    url: https://stal-iskra.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: stanovlyanskie-dni.ru
+    name: stanovlyanskie-dni.ru
+    url: https://stanovlyanskie-dni.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: starodublife.ru
+    name: starodublife.ru
+    url: https://starodublife.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: starorusski-krai.ru
+    name: starorusski-krai.ru
+    url: https://starorusski-krai.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: step-nov.ru
+    name: step-nov.ru
+    url: https://step-nov.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: stepkrai.ru
+    name: stepkrai.ru
+    url: https://stepkrai.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: stepnaya-nov.ru
+    name: stepnaya-nov.ru
+    url: https://stepnaya-nov.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: strezhevoy-svetofor.ru
+    name: strezhevoy-svetofor.ru
+    url: https://strezhevoy-svetofor.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: stroy-armavir.ru
+    name: stroy-armavir.ru
+    url: https://stroy-armavir.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: sudogda-city.ru
+    name: sudogda-city.ru
+    url: https://sudogda-city.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: sudzha-vestnik.ru
+    name: sudzha-vestnik.ru
+    url: https://sudzha-vestnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: sunjpravda.ru
+    name: sunjpravda.ru
+    url: https://sunjpravda.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: suntargazeta.ru
+    name: suntargazeta.ru
+    url: https://suntargazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: sunzha-pravda.ru
+    name: sunzha-pravda.ru
+    url: https://sunzha-pravda.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: sunzha-press.ru
+    name: sunzha-press.ru
+    url: https://sunzha-press.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: surazhvestnik.ru
+    name: surazhvestnik.ru
+    url: https://surazhvestnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: surgut-novosti.ru
+    name: surgut-novosti.ru
+    url: https://surgut-novosti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: suzemka-press.ru
+    name: suzemka-press.ru
+    url: https://suzemka-press.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: suzun-intellect.ru
+    name: suzun-intellect.ru
+    url: https://suzun-intellect.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: sv65.ru
+    name: sv65.ru
+    url: https://sv65.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: svetlograd-today.ru
+    name: svetlograd-today.ru
+    url: https://svetlograd-today.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: svetvesti.ru
+    name: svetvesti.ru
+    url: https://svetvesti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: svetvestnik.ru
+    name: svetvestnik.ru
+    url: https://svetvestnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: svobodni-trud.ru
+    name: svobodni-trud.ru
+    url: https://svobodni-trud.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: svobodnygolos.ru
+    name: svobodnygolos.ru
+    url: https://svobodnygolos.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: svoya-gazeta.ru
+    name: svoya-gazeta.ru
+    url: https://svoya-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: sysert-press.ru
+    name: sysert-press.ru
+    url: https://sysert-press.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: taganrog-time.ru
+    name: taganrog-time.ru
+    url: https://taganrog-time.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: taishetskaya-nedelya.ru
+    name: taishetskaya-nedelya.ru
+    url: https://taishetskaya-nedelya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: talovaya-press.ru
+    name: talovaya-press.ru
+    url: https://talovaya-press.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: talzhizn.ru
+    name: talzhizn.ru
+    url: https://talzhizn.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: tarys.ru
+    name: tarys.ru
+    url: https://tarys.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: tashtyp3.ru
+    name: tashtyp3.ru
+    url: https://tashtyp3.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: tbilnews.ru
+    name: tbilnews.ru
+    url: https://tbilnews.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: teikovo-gazeta.ru
+    name: teikovo-gazeta.ru
+    url: https://teikovo-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: temryuk-kompas.ru
+    name: temryuk-kompas.ru
+    url: https://temryuk-kompas.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: temryuk-news.ru
+    name: temryuk-news.ru
+    url: https://temryuk-news.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: terbunskie-vesti.ru
+    name: terbunskie-vesti.ru
+    url: https://terbunskie-vesti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: terra-19tv.ru
+    name: terra-19tv.ru
+    url: https://terra-19tv.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: tersky-raion.ru
+    name: tersky-raion.ru
+    url: https://tersky-raion.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: tigil-gazeta.ru
+    name: tigil-gazeta.ru
+    url: https://tigil-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: tikhoretski-vestnik.ru
+    name: tikhoretski-vestnik.ru
+    url: https://tikhoretski-vestnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: tilichiki-zemlya.ru
+    name: tilichiki-zemlya.ru
+    url: https://tilichiki-zemlya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: toguchin-time.ru
+    name: toguchin-time.ru
+    url: https://toguchin-time.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: tommot-listok.ru
+    name: tommot-listok.ru
+    url: https://tommot-listok.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: tompon.ru
+    name: tompon.ru
+    url: https://tompon.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: torzhok-life.ru
+    name: torzhok-life.ru
+    url: https://torzhok-life.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: tosvestnik.ru
+    name: tosvestnik.ru
+    url: https://tosvestnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: totmagazeta.ru
+    name: totmagazeta.ru
+    url: https://totmagazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: tovarkovo-plus.ru
+    name: tovarkovo-plus.ru
+    url: https://tovarkovo-plus.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: tovarkovo-plyus.ru
+    name: tovarkovo-plyus.ru
+    url: https://tovarkovo-plyus.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: tribuna-komi.ru
+    name: tribuna-komi.ru
+    url: https://tribuna-komi.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: tribuna-urala.ru
+    name: tribuna-urala.ru
+    url: https://tribuna-urala.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: tribuna22.ru
+    name: tribuna22.ru
+    url: https://tribuna22.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: tribunakomi.ru
+    name: tribunakomi.ru
+    url: https://tribunakomi.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: troitskoevremya.ru
+    name: troitskoevremya.ru
+    url: https://troitskoevremya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: trubchevskaya-okruga.ru
+    name: trubchevskaya-okruga.ru
+    url: https://trubchevskaya-okruga.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: trudovaya-vakhta.ru
+    name: trudovaya-vakhta.ru
+    url: https://trudovaya-vakhta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: tsaganaman.ru
+    name: tsaganaman.ru
+    url: https://tsaganaman.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: tsahvoa.ru
+    name: tsahvoa.ru
+    url: https://tsahvoa.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: tsimlyansk.ru
+    name: tsimlyansk.ru
+    url: https://tsimlyansk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: tsotsi-yurt.info
+    name: tsotsi-yurt.info
+    url: https://tsotsi-yurt.info/
+    method: GET
+    expectStatus: 200
+
+  - id: tsotsyiurt.ru
+    name: tsotsyiurt.ru
+    url: https://tsotsyiurt.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: tulski-telegraf.ru
+    name: tulski-telegraf.ru
+    url: https://tulski-telegraf.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: tulunski-vestnik.ru
+    name: tulunski-vestnik.ru
+    url: https://tulunski-vestnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: tur-izvestiya.ru
+    name: tur-izvestiya.ru
+    url: https://tur-izvestiya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: tura-news.ru
+    name: tura-news.ru
+    url: https://tura-news.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: turan-gazeta.ru
+    name: turan-gazeta.ru
+    url: https://turan-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: turochak-life.ru
+    name: turochak-life.ru
+    url: https://turochak-life.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: turval.ru
+    name: turval.ru
+    url: https://turval.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: tutaev-gazeta.ru
+    name: tutaev-gazeta.ru
+    url: https://tutaev-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: tuv-pravda.ru
+    name: tuv-pravda.ru
+    url: https://tuv-pravda.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: tuva-ter.ru
+    name: tuva-ter.ru
+    url: https://tuva-ter.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: tuvexpress.ru
+    name: tuvexpress.ru
+    url: https://tuvexpress.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: tvoi-den.ru
+    name: tvoi-den.ru
+    url: https://tvoi-den.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: tvoi-karasuk.ru
+    name: tvoi-karasuk.ru
+    url: https://tvoi-karasuk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: tvoy-pozitiv.ru
+    name: tvoy-pozitiv.ru
+    url: https://tvoy-pozitiv.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: tvoya-gazeta.info
+    name: tvoya-gazeta.info
+    url: https://tvoya-gazeta.info/
+    method: GET
+    expectStatus: 200
+
+  - id: tvoyagazeta-so.ru
+    name: tvoyagazeta-so.ru
+    url: https://tvoyagazeta-so.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: tvybor.ru
+    name: tvybor.ru
+    url: https://tvybor.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: u-vesti.ru
+    name: u-vesti.ru
+    url: https://u-vesti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: uagazeta.ru
+    name: uagazeta.ru
+    url: https://uagazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: uchkeken-news.ru
+    name: uchkeken-news.ru
+    url: https://uchkeken-news.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: udachny-den.ru
+    name: udachny-den.ru
+    url: https://udachny-den.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: udomlya-starina.ru
+    name: udomlya-starina.ru
+    url: https://udomlya-starina.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: uglegorskns.ru
+    name: uglegorskns.ru
+    url: https://uglegorskns.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: uglich-vest.ru
+    name: uglich-vest.ru
+    url: https://uglich-vest.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ujadyg.ru
+    name: ujadyg.ru
+    url: https://ujadyg.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: uk-nedelya.ru
+    name: uk-nedelya.ru
+    url: https://uk-nedelya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: uk-vestnik.ru
+    name: uk-vestnik.ru
+    url: https://uk-vestnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ul-perekrestok.ru
+    name: ul-perekrestok.ru
+    url: https://ul-perekrestok.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ulug-khem.ru
+    name: ulug-khem.ru
+    url: https://ulug-khem.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: um-vest.ru
+    name: um-vest.ru
+    url: https://um-vest.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: um-vestnik.ru
+    name: um-vestnik.ru
+    url: https://um-vestnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: umanskaya-gazeta.ru
+    name: umanskaya-gazeta.ru
+    url: https://umanskaya-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: unecha-express.ru
+    name: unecha-express.ru
+    url: https://unecha-express.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: uporovskoe-vremya.ru
+    name: uporovskoe-vremya.ru
+    url: https://uporovskoe-vremya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: uraiski-kurier.ru
+    name: uraiski-kurier.ru
+    url: https://uraiski-kurier.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: urogay-smol.ru
+    name: urogay-smol.ru
+    url: https://urogay-smol.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: urus-martan.info
+    name: urus-martan.info
+    url: https://urus-martan.info/
+    method: GET
+    expectStatus: 200
+
+  - id: uryupinskgazeta.ru
+    name: uryupinskgazeta.ru
+    url: https://uryupinskgazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ussuriysk-news.ru
+    name: ussuriysk-news.ru
+    url: https://ussuriysk-news.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ust-bolshereczk.ru
+    name: ust-bolshereczk.ru
+    url: https://ust-bolshereczk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ust-bolsheretsk.ru
+    name: ust-bolsheretsk.ru
+    url: https://ust-bolsheretsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ust-ilim.press
+    name: ust-ilim.press
+    url: https://ust-ilim.press/
+    method: GET
+    expectStatus: 200
+
+  - id: ust-kutskaya.ru
+    name: ust-kutskaya.ru
+    url: https://ust-kutskaya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ustkam-vremya.ru
+    name: ustkam-vremya.ru
+    url: https://ustkam-vremya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ustvesti.ru
+    name: ustvesti.ru
+    url: https://ustvesti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ustyugvestnik.ru
+    name: ustyugvestnik.ru
+    url: https://ustyugvestnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: utrolagani.ru
+    name: utrolagani.ru
+    url: https://utrolagani.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: uva-projector.ru
+    name: uva-projector.ru
+    url: https://uva-projector.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: uyar-rassvety.ru
+    name: uyar-rassvety.ru
+    url: https://uyar-rassvety.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: uzhur-volost.ru
+    name: uzhur-volost.ru
+    url: https://uzhur-volost.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: v-dalgor.ru
+    name: v-dalgor.ru
+    url: https://v-dalgor.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: v-gorizont.ru
+    name: v-gorizont.ru
+    url: https://v-gorizont.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: v-kizilyurt.ru
+    name: v-kizilyurt.ru
+    url: https://v-kizilyurt.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: v-nerungri.ru
+    name: v-nerungri.ru
+    url: https://v-nerungri.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: v-neryungri.ru
+    name: v-neryungri.ru
+    url: https://v-neryungri.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vagai-pravda.ru
+    name: vagai-pravda.ru
+    url: https://vagai-pravda.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: val-zvezda.ru
+    name: val-zvezda.ru
+    url: https://val-zvezda.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: valdaygazeta.ru
+    name: valdaygazeta.ru
+    url: https://valdaygazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vash-mikhailovsk.ru
+    name: vash-mikhailovsk.ru
+    url: https://vash-mikhailovsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vashe-prav.ru
+    name: vashe-prav.ru
+    url: https://vashe-prav.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vchaspik.ru
+    name: vchaspik.ru
+    url: https://vchaspik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vech-aldan.ru
+    name: vech-aldan.ru
+    url: https://vech-aldan.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vecherka-kuybyshev.ru
+    name: vecherka-kuybyshev.ru
+    url: https://vecherka-kuybyshev.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vecherka-ner.ru
+    name: vecherka-ner.ru
+    url: https://vecherka-ner.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vecherka-obninsk.ru
+    name: vecherka-obninsk.ru
+    url: https://vecherka-obninsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vecherkandalaksha.ru
+    name: vecherkandalaksha.ru
+    url: https://vecherkandalaksha.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vechernee-petuhovo.ru
+    name: vechernee-petuhovo.ru
+    url: https://vechernee-petuhovo.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vecherni-karachev.ru
+    name: vecherni-karachev.ru
+    url: https://vecherni-karachev.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vecherni-obninsk.ru
+    name: vecherni-obninsk.ru
+    url: https://vecherni-obninsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vecherni-ustilim.ru
+    name: vecherni-ustilim.ru
+    url: https://vecherni-ustilim.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vecherniy-sudak.ru
+    name: vecherniy-sudak.ru
+    url: https://vecherniy-sudak.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vecherny-ishim.ru
+    name: vecherny-ishim.ru
+    url: https://vecherny-ishim.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vektor-nedeli.ru
+    name: vektor-nedeli.ru
+    url: https://vektor-nedeli.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vektor-tatarsk.ru
+    name: vektor-tatarsk.ru
+    url: https://vektor-tatarsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: veloboz.ru
+    name: veloboz.ru
+    url: https://veloboz.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: verhnednepr.ru
+    name: verhnednepr.ru
+    url: https://verhnednepr.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: verhneket.ru
+    name: verhneket.ru
+    url: https://verhneket.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: verkhnekamie.ru
+    name: verkhnekamie.ru
+    url: https://verkhnekamie.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: verny-put.ru
+    name: verny-put.ru
+    url: https://verny-put.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ves-gubkinsky.ru
+    name: ves-gubkinsky.ru
+    url: https://ves-gubkinsky.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ves-mirny.ru
+    name: ves-mirny.ru
+    url: https://ves-mirny.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ves-rybinsk.ru
+    name: ves-rybinsk.ru
+    url: https://ves-rybinsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ves-severomorsk.ru
+    name: ves-severomorsk.ru
+    url: https://ves-severomorsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ves-volgodonsk.ru
+    name: ves-volgodonsk.ru
+    url: https://ves-volgodonsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vesti-ah.ru
+    name: vesti-ah.ru
+    url: https://vesti-ah.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vesti-bu.ru
+    name: vesti-bu.ru
+    url: https://vesti-bu.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vesti-kaluga.ru
+    name: vesti-kaluga.ru
+    url: https://vesti-kaluga.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vesti-ls.ru
+    name: vesti-ls.ru
+    url: https://vesti-ls.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vesti-mezhdurechensk.ru
+    name: vesti-mezhdurechensk.ru
+    url: https://vesti-mezhdurechensk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vesti-millerovo.ru
+    name: vesti-millerovo.ru
+    url: https://vesti-millerovo.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vesti-morozovsk.ru
+    name: vesti-morozovsk.ru
+    url: https://vesti-morozovsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vesti-p.ru
+    name: vesti-p.ru
+    url: https://vesti-p.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vesti-yantarnogo.ru
+    name: vesti-yantarnogo.ru
+    url: https://vesti-yantarnogo.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vesti61.ru
+    name: vesti61.ru
+    url: https://vesti61.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vestiharabali.ru
+    name: vestiharabali.ru
+    url: https://vestiharabali.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vestiv.ru
+    name: vestiv.ru
+    url: https://vestiv.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vestivsredu.ru
+    name: vestivsredu.ru
+    url: https://vestivsredu.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vestnik-baltiyska.ru
+    name: vestnik-baltiyska.ru
+    url: https://vestnik-baltiyska.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vestnik-kovdora.ru
+    name: vestnik-kovdora.ru
+    url: https://vestnik-kovdora.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vestnik-ladushkina.ru
+    name: vestnik-ladushkina.ru
+    url: https://vestnik-ladushkina.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vestnik-nachalovo.ru
+    name: vestnik-nachalovo.ru
+    url: https://vestnik-nachalovo.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vestnik-predgoria.ru
+    name: vestnik-predgoria.ru
+    url: https://vestnik-predgoria.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vestnik-pv.ru
+    name: vestnik-pv.ru
+    url: https://vestnik-pv.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vestnik-selsovetov.ru
+    name: vestnik-selsovetov.ru
+    url: https://vestnik-selsovetov.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vestnik-surovikino.ru
+    name: vestnik-surovikino.ru
+    url: https://vestnik-surovikino.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vestnik-tm.ru
+    name: vestnik-tm.ru
+    url: https://vestnik-tm.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vestnik-zav.ru
+    name: vestnik-zav.ru
+    url: https://vestnik-zav.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vestniklk.ru
+    name: vestniklk.ru
+    url: https://vestniklk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vestnikpr.ru
+    name: vestnikpr.ru
+    url: https://vestnikpr.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vestniktaimyra.ru
+    name: vestniktaimyra.ru
+    url: https://vestniktaimyra.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: veteran-pravda.ru
+    name: veteran-pravda.ru
+    url: https://veteran-pravda.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: viborkazan.ru
+    name: viborkazan.ru
+    url: https://viborkazan.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vilyuchinsk-izvestia.ru
+    name: vilyuchinsk-izvestia.ru
+    url: https://vilyuchinsk-izvestia.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vilyuisk-gorizont.ru
+    name: vilyuisk-gorizont.ru
+    url: https://vilyuisk-gorizont.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vimpel-rubtsovsk.ru
+    name: vimpel-rubtsovsk.ru
+    url: https://vimpel-rubtsovsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vitegoria.ru
+    name: vitegoria.ru
+    url: https://vitegoria.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vitzori.ru
+    name: vitzori.ru
+    url: https://vitzori.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vltavacrimea.ru
+    name: vltavacrimea.ru
+    url: https://vltavacrimea.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vlz-stroitel.ru
+    name: vlz-stroitel.ru
+    url: https://vlz-stroitel.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: voinskayaslava.ru
+    name: voinskayaslava.ru
+    url: https://voinskayaslava.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: volna-zelenogradsk.ru
+    name: volna-zelenogradsk.ru
+    url: https://volna-zelenogradsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vologda-p.ru
+    name: vologda-p.ru
+    url: https://vologda-p.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vologodskylad.ru
+    name: vologodskylad.ru
+    url: https://vologodskylad.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: volokolamskoe-shosse.ru
+    name: volokolamskoe-shosse.ru
+    url: https://volokolamskoe-shosse.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: voshod57.ru
+    name: voshod57.ru
+    url: https://voshod57.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: voshodprim.ru
+    name: voshodprim.ru
+    url: https://voshodprim.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: voshodvanino.ru
+    name: voshodvanino.ru
+    url: https://voshodvanino.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: voskresenskie-dni.ru
+    name: voskresenskie-dni.ru
+    url: https://voskresenskie-dni.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vostok-alt.ru
+    name: vostok-alt.ru
+    url: https://vostok-alt.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vostregion.ru
+    name: vostregion.ru
+    url: https://vostregion.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: votkinsk-segodnya.ru
+    name: votkinsk-segodnya.ru
+    url: https://votkinsk-segodnya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vpered-kb.ru
+    name: vpered-kb.ru
+    url: https://vpered-kb.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vpered-m.ru
+    name: vpered-m.ru
+    url: https://vpered-m.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vpered-zori.ru
+    name: vpered-zori.ru
+    url: https://vpered-zori.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vpered57.ru
+    name: vpered57.ru
+    url: https://vpered57.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vperedbel.ru
+    name: vperedbel.ru
+    url: https://vperedbel.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vpereduralan.ru
+    name: vpereduralan.ru
+    url: https://vpereduralan.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vremya-molchanovo.ru
+    name: vremya-molchanovo.ru
+    url: https://vremya-molchanovo.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vse-o-zhizni.ru
+    name: vse-o-zhizni.ru
+    url: https://vse-o-zhizni.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vsev-gazeta.ru
+    name: vsev-gazeta.ru
+    url: https://vsev-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vsya-igra.ru
+    name: vsya-igra.ru
+    url: https://vsya-igra.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vvanino.ru
+    name: vvanino.ru
+    url: https://vvanino.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vvp-kotelnich.ru
+    name: vvp-kotelnich.ru
+    url: https://vvp-kotelnich.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vyazemski.ru
+    name: vyazemski.ru
+    url: https://vyazemski.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vyazemskie-vedomosti.ru
+    name: vyazemskie-vedomosti.ru
+    url: https://vyazemskie-vedomosti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vyazma-vedomosti.ru
+    name: vyazma-vedomosti.ru
+    url: https://vyazma-vedomosti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vyazniki-nedelya.ru
+    name: vyazniki-nedelya.ru
+    url: https://vyazniki-nedelya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vybor-krasnogoria.ru
+    name: vybor-krasnogoria.ru
+    url: https://vybor-krasnogoria.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vyborg-avtograf.ru
+    name: vyborg-avtograf.ru
+    url: https://vyborg-avtograf.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: vygonichi.ru
+    name: vygonichi.ru
+    url: https://vygonichi.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: wyksa-r.ru
+    name: wyksa-r.ru
+    url: https://wyksa-r.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: xn----8sbjhmaeayppbwkpbar6b.xn--p1ai
+    name: xn----8sbjhmaeayppbwkpbar6b.xn--p1ai
+    url: https://xn----8sbjhmaeayppbwkpbar6b.xn--p1ai/
+    method: GET
+    expectStatus: 200
+
+  - id: yagodnoe.press
+    name: yagodnoe.press
+    url: https://yagodnoe.press/
+    method: GET
+    expectStatus: 200
+
+  - id: yalutor-volna.ru
+    name: yalutor-volna.ru
+    url: https://yalutor-volna.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: yamal-time.ru
+    name: yamal-time.ru
+    url: https://yamal-time.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: yamaltime.ru
+    name: yamaltime.ru
+    url: https://yamaltime.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: yar-gorod.ru
+    name: yar-gorod.ru
+    url: https://yar-gorod.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: yarbiz.info
+    name: yarbiz.info
+    url: https://yarbiz.info/
+    method: GET
+    expectStatus: 200
+
+  - id: yarkovosti.ru
+    name: yarkovosti.ru
+    url: https://yarkovosti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: yashalta-dnevnik.ru
+    name: yashalta-dnevnik.ru
+    url: https://yashalta-dnevnik.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: yashkur-bodya.ru
+    name: yashkur-bodya.ru
+    url: https://yashkur-bodya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: yaskluch.ru
+    name: yaskluch.ru
+    url: https://yaskluch.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: yugorski-glagol.ru
+    name: yugorski-glagol.ru
+    url: https://yugorski-glagol.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: yurga-nov.ru
+    name: yurga-nov.ru
+    url: https://yurga-nov.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: yuriev-polski.ru
+    name: yuriev-polski.ru
+    url: https://yuriev-polski.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: z-steppe.ru
+    name: z-steppe.ru
+    url: https://z-steppe.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: za-izobilie57.ru
+    name: za-izobilie57.ru
+    url: https://za-izobilie57.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: za-urozai.ru
+    name: za-urozai.ru
+    url: https://za-urozai.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: zabaykalsk-vedomosti.ru
+    name: zabaykalsk-vedomosti.ru
+    url: https://zabaykalsk-vedomosti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: zabrabochii.ru
+    name: zabrabochii.ru
+    url: https://zabrabochii.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: zadonskie-zori.ru
+    name: zadonskie-zori.ru
+    url: https://zadonskie-zori.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: zalegoshch.ru
+    name: zalegoshch.ru
+    url: https://zalegoshch.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: zaozerny-kray.ru
+    name: zaozerny-kray.ru
+    url: https://zaozerny-kray.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: zaplica.ru
+    name: zaplica.ru
+    url: https://zaplica.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: zapolyarny-region.ru
+    name: zapolyarny-region.ru
+    url: https://zapolyarny-region.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: zaraisk-news.ru
+    name: zaraisk-news.ru
+    url: https://zaraisk-news.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: zariagazeta.ru
+    name: zariagazeta.ru
+    url: https://zariagazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: zarya-kgorod.ru
+    name: zarya-kgorod.ru
+    url: https://zarya-kgorod.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: zarya-kurg.ru
+    name: zarya-kurg.ru
+    url: https://zarya-kurg.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: zarya-sev.ru
+    name: zarya-sev.ru
+    url: https://zarya-sev.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: zarya-urala.ru
+    name: zarya-urala.ru
+    url: https://zarya-urala.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: zarya57.ru
+    name: zarya57.ru
+    url: https://zarya57.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: zaryakaspiya.ru
+    name: zaryakaspiya.ru
+    url: https://zaryakaspiya.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: zaryapirov.ru
+    name: zaryapirov.ru
+    url: https://zaryapirov.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: zatozelenogorsk.ru
+    name: zatozelenogorsk.ru
+    url: https://zatozelenogorsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: zavety-i.ru
+    name: zavety-i.ru
+    url: https://zavety-i.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: zavety-len.ru
+    name: zavety-len.ru
+    url: https://zavety-len.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: zavodoukovsk-gazeta.ru
+    name: zavodoukovsk-gazeta.ru
+    url: https://zavodoukovsk-gazeta.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: zavyalovsky-flag.ru
+    name: zavyalovsky-flag.ru
+    url: https://zavyalovsky-flag.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: zelenchukpravda.ru
+    name: zelenchukpravda.ru
+    url: https://zelenchukpravda.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: zemlya-n.ru
+    name: zemlya-n.ru
+    url: https://zemlya-n.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: zempodolsk.ru
+    name: zempodolsk.ru
+    url: https://zempodolsk.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: zemskie-vesti.ru
+    name: zemskie-vesti.ru
+    url: https://zemskie-vesti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: zemvv.ru
+    name: zemvv.ru
+    url: https://zemvv.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: zernograd.biz
+    name: zernograd.biz
+    url: https://zernograd.biz/
+    method: GET
+    expectStatus: 200
+
+  - id: zhatay.com
+    name: zhatay.com
+    url: https://zhatay.com/
+    method: GET
+    expectStatus: 200
+
+  - id: zheleznogorsk-panorama.ru
+    name: zheleznogorsk-panorama.ru
+    url: https://zheleznogorsk-panorama.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: zhen-dagestana.ru
+    name: zhen-dagestana.ru
+    url: https://zhen-dagestana.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: ziminski-region.ru
+    name: ziminski-region.ru
+    url: https://ziminski-region.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: zmi-novosni.ru
+    name: zmi-novosni.ru
+    url: https://zmi-novosni.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: zmievka-novosti.ru
+    name: zmievka-novosti.ru
+    url: https://zmievka-novosti.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: zn-press.ru
+    name: zn-press.ru
+    url: https://zn-press.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: zn-smol.ru
+    name: zn-smol.ru
+    url: https://zn-smol.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: znamensk-tribuna.ru
+    name: znamensk-tribuna.ru
+    url: https://znamensk-tribuna.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: znamenskaya-tribuna.ru
+    name: znamenskaya-tribuna.ru
+    url: https://znamenskaya-tribuna.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: znamya-plast.ru
+    name: znamya-plast.ru
+    url: https://znamya-plast.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: znamya-trud.ru
+    name: znamya-trud.ru
+    url: https://znamya-trud.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: zntrud.ru
+    name: zntrud.ru
+    url: https://zntrud.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: zntruda.ru
+    name: zntruda.ru
+    url: https://zntruda.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: zolotuhino-raion.ru
+    name: zolotuhino-raion.ru
+    url: https://zolotuhino-raion.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: zvezda-langepas.ru
+    name: zvezda-langepas.ru
+    url: https://zvezda-langepas.ru/
+    method: GET
+    expectStatus: 200
+
+  - id: zvezda-sah.ru
+    name: zvezda-sah.ru
+    url: https://zvezda-sah.ru/
+    method: GET
+    expectStatus: 200
+
