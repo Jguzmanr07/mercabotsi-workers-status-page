@@ -5,10 +5,11 @@ settings:
   daysInHistogram: 90 # number of days you want to display in histogram
   collectResponseTimes: true # collects avg response times from CRON locations
 
-  allmonitorsOperational: 'Not All Systems Operational'
-  notAllmonitorsOperational: 'All Systems Operational'
+  allmonitorsOperational: 'All Systems Operational'
+  notAllmonitorsOperational: 'Some tango downs are being noticed'
   monitorLabelOperational: 'Operational'
-  monitorLabelNotOperational: 'Not Operational'
+  monitorLabelNotOperational: 'Tango Down - Not Operational'
+  monitorLabelNoData: 'No data'
   dayInHistogramNoData: 'No data'
   dayInHistogramOperational: 'All good'
   dayInHistogramNotOperational: ' incident(s)' # xx incident(s) recorded
