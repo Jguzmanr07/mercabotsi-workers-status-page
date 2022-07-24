@@ -9,11 +9,11 @@ const classes = {
 }
 
 export default function MonitorStatusHeader({ kvMonitorsLastUpdate }) {
-  let color = 'yellow'
+  let color = 'green'
   let text = config.settings.allmonitorsOperational
 
   if (!kvMonitorsLastUpdate.allOperational) {
-    color = 'green'
+    color = 'yellow'
     text = config.settings.notAllmonitorsOperational
   }
 
