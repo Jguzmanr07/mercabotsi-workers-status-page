@@ -35,3 +35,6 @@ jobs:
         run: python monitor.py
         env:
           key: ${{ secrets.key }}
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+         commit_message: a new datapoint has been submitted
