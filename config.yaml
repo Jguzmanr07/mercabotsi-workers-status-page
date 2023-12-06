@@ -29,7 +29,7 @@ monitors:
 
   - id: RussiaGoverment 
     name: Russian Goverment
-    url: http://government.ru
+    url: http://google.com
     method: GET
     expectStatus: 200
 
@@ -39,26 +39,3 @@ monitors:
     method: GET
     expectStatus: 200
 
-  - id: Tass
-    name: TASS Russian Agency ( Propaganda Army )
-    url: http://en.tass.ru
-    method: GET
-    expectStatus: 200
-
-  - id: Duma
-    name: State Duma
-    url: http://duma.gov.ru
-    method: GET
-    expectStatus: 200
-
-  - id: CentralBank
-    name: Russia Central Bank
-    url: http://www.cbr.ru
-    method: GET
-    expectStatus: 200
-
-  - id: SberkBank
-    name: SbearBank
-    url: http://www.sberbank.ru
-    method: GET
-    expectStatus: 200
